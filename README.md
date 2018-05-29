@@ -6,19 +6,26 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 ---
 ## Computer Vision
-###### Multimodal, ...
+###### Segmentation, Detection, Multimodal, ...
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
 | <sub>**Apr. 19,2018**</sub> | <sub>**Jun. 30,2018**</sub> | <sub>The Audio/Visual Emotion Challenge and Workshop (AVEC 2018)</sub> | <sub>[avec2018](https://sites.google.com/view/avec2018/home)</sub> | |
+| <sub>**May ,2018**</sub> | <sub>**Aug. 10,2018**</sub> | <sub>COCO2018: Object Detection Task (ECCV 2018)</sub> | <sub>[coco2018-detection](http://cocodataset.org/#detection-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
+| <sub>**May ,2018**</sub> | <sub>**Aug. 10,2018**</sub> | <sub>COCO2018: Keypoint Detection Task (ECCV 2018)</sub> | <sub>[coco2018-keypoint](http://cocodataset.org/#keypoints-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
+| <sub>**May ,2018**</sub> | <sub>**Aug. 10,2018**</sub> | <sub>COCO2018: Panoptic Segmentation Task (ECCV 2018)</sub> | <sub>[coco2018-panoptic](http://cocodataset.org/#panoptic-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
+| <sub>**May ,2018**</sub> | <sub>**2018**</sub> | <sub>COCO2018: Stuff Segmentation Task</sub> | <sub>[coco2018-stuff](http://cocodataset.org/#stuff-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
+| <sub>**May ,2018**</sub> | <sub>**Aug. 10,2018**</sub> | <sub>Mapillary: Object Detection Task (ECCV 2018)</sub> | <sub>[mapillary-object](http://research.mapillary.com/eccv18/#detection)</sub> |<a href="https://github.com/mapillary/mapillary_tools">:scroll:</a> |
+| <sub>**May ,2018**</sub> | <sub>**Aug. 10,2018**</sub> | <sub>Mapillary: Panoptic Segmentation Task (ECCV 2018)</sub> | <sub>[mapillary-panoptic](http://research.mapillary.com/eccv18/#panoptic)</sub> |<a href="https://github.com/mapillary/mapillary_tools">:scroll:</a> |
 
 ---
 ## Language 
-###### Identification, Dialog, ....
+###### Identification, Dialog, QA, ...
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
 | <sub>**Apr. 21,2018**</sub> | <sub>**Sep. 30,2018**</sub> | <sub>The Conversational Intelligence Challenge 2 (ConvAI2)</sub> | <sub>[convai2](http://convai.io/)</sub> |<a href="https://github.com/DeepPavlov/convai">:scroll:</a>  |
+| <sub>Jul. 17,2017</sub> | <sub>**Never**</sub> | <sub>TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension</sub> | <sub>[triviaqa](http://nlp.cs.washington.edu/triviaqa/)</sub> |<a href="https://github.com/mandarjoshi90/triviaqa">:scroll:</a> |
 | <sub>May. 22,2017</sub> | <sub>~~Oct. 10,2017~~</sub> | <sub>DSTC6: End-to-End Goal Oriented Dialog Learning</sub> | <sub>[dstc6-goal](http://workshop.colips.org/dstc6/index.html)</sub> |<a href="https://github.com/perezjln/dstc6-goal-oriented-end-to-end">:scroll:</a> |
 | <sub>May. 22,2017</sub> | <sub>~~Oct. 10,2017~~</sub> | <sub>DSTC6: End-to-End Conversation Modeling</sub> | <sub>[dstc6-conv](http://workshop.colips.org/dstc6/index.html)</sub> |<a href="https://github.com/dialogtekgeek/DSTC6-End-to-End-Conversation-Modeling">:scroll:</a>  |
 | <sub>May. 22,2017</sub> | <sub>~~Oct. 10,2017~~</sub> | <sub>DSTC6: Dialogue Breakdown Detection</sub> | <sub>[dstc6-break](https://dbd-challenge.github.io/dbdc3/)</sub> |<a href="https://github.com/dbd-challenge/dbdc3/">:scroll:</a>  |
@@ -36,7 +43,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
 | <sub>**May. 10,2018**</sub> | <sub>**Sep. 17,2018**</sub> | <sub>The 1st Multi-target speaker detection and identification Challenge Evaluation</sub> | <sub>[mce2018](http://mce2018.org/)</sub> | <a href="https://github.com/swshon/multi-speakerID">:scroll:</a> |
-| <sub>**Late 2018**</sub> |  | <sub>NIST 2018 Speaker Recognition Evaluation (SRE2018) </sub> | <sub>[sre2018](https://www.nist.gov/itl/iad/mig/speaker-recognition)</sub> |  |
+| <sub>**Late 2018**</sub> |  | <sub>NIST 2018 Speaker Recognition Evaluation (SRE 2018) </sub> | <sub>[sre2018](https://www.nist.gov/itl/iad/mig/speaker-recognition)</sub> |  |
 | <sub>Jan. 30,2018</sub> | <sub>~~Mar. 23,2018~~</sub> | <sub>The First DIHARD Speech Diarization Challenge</sub> | <sub>[dihard](https://coml.lscp.ens.fr/dihard/index.html)</sub> | <a href="https://github.com/nryant/dscore">:scroll:</a> |
 
 ---
