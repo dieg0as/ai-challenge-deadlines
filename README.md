@@ -17,6 +17,10 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>**May ,2018**</sub> | <sub>**2018**</sub> | <sub>COCO2018: Stuff Segmentation Task</sub> | <sub>[coco2018-stuff](http://cocodataset.org/#stuff-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
 | <sub>**May ,2018**</sub> | <sub>**Aug. 10,2018**</sub> | <sub>Mapillary: Object Detection Task (ECCV 2018)</sub> | <sub>[mapillary-object](http://research.mapillary.com/eccv18/#detection)</sub> |<a href="https://github.com/mapillary/mapillary_tools">:scroll:</a> |
 | <sub>**May ,2018**</sub> | <sub>**Aug. 10,2018**</sub> | <sub>Mapillary: Panoptic Segmentation Task (ECCV 2018)</sub> | <sub>[mapillary-panoptic](http://research.mapillary.com/eccv18/#panoptic)</sub> |<a href="https://github.com/mapillary/mapillary_tools">:scroll:</a> |
+| <sub>Mar. 14 ,2018</sub> | <sub>~~May 04,2018~~</sub> | <sub>One-Minute-Gradual (OMG) Emotion Behavior Challenge</sub> | <sub>[omg-emotion](https://www2.informatik.uni-hamburg.de/wtm/OMG-EmotionChallenge/)</sub> |<a href="https://github.com/knowledgetechnologyuhh/OMGEmotionChallenge">:scroll:</a> |
+| <sub>Mar. 08,2018</sub> | <sub>~~May 15,2018~~</sub> | <sub>DeepGlobe Road Extraction Challenge</sub> | <sub>[deepglobe-road](http://deepglobe.org/)</sub> |<a href="https://competitions.codalab.org/competitions/18467">:scroll:</a> |
+| <sub>Mar. 08,2018</sub> | <sub>~~May 15,2018~~</sub> | <sub>DeepGlobe Building Extraction Challenge</sub> | <sub>[deepglobe-building](http://deepglobe.org/)</sub> |<a href="https://competitions.codalab.org/competitions/18544">:scroll:</a> |
+| <sub>Mar. 08,2018</sub> | <sub>~~May 15,2018~~</sub> | <sub>DeepGlobe Land Cover Classification Challenge</sub> | <sub>[deepglobe-land](http://deepglobe.org/)</sub> |<a href="https://competitions.codalab.org/competitions/18468">:scroll:</a> |
 
 ---
 ## Language 
