@@ -48,9 +48,10 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | :--- | :--- | :--- | :--- | :--- |
 | <sub>**Apr. 21,2018**</sub> | <sub>**Sep. 30,2018**</sub> | <sub>The Conversational Intelligence Challenge 2 (ConvAI2)</sub> | <sub>[convai2](http://convai.io/)</sub> |<a href="https://github.com/DeepPavlov/convai">:scroll:</a>  |
 | <sub>Jul. 17,2017</sub> | <sub>**Never**</sub> | <sub>TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension</sub> | <sub>[triviaqa](http://nlp.cs.washington.edu/triviaqa/)</sub> |<a href="https://github.com/mandarjoshi90/triviaqa">:scroll:</a> |
-| <sub>May. 22,2017</sub> | <sub>~~Oct. 10,2017~~</sub> | <sub>DSTC6: End-to-End Goal Oriented Dialog Learning</sub> | <sub>[dstc6-goal](http://workshop.colips.org/dstc6/index.html)</sub> |<a href="https://github.com/perezjln/dstc6-goal-oriented-end-to-end">:scroll:</a> |
+| <sub>May. 22,2017</sub> | <sub>~~Oct. 10,2018~~</sub> | <sub>DSTC6: End-to-End Goal Oriented Dialog Learning</sub> | <sub>[dstc6-goal](http://workshop.colips.org/dstc6/index.html)</sub> |<a href="https://github.com/perezjln/dstc6-goal-oriented-end-to-end">:scroll:</a> |
 | <sub>May. 22,2017</sub> | <sub>~~Oct. 10,2017~~</sub> | <sub>DSTC6: End-to-End Conversation Modeling</sub> | <sub>[dstc6-conv](http://workshop.colips.org/dstc6/index.html)</sub> |<a href="https://github.com/dialogtekgeek/DSTC6-End-to-End-Conversation-Modeling">:scroll:</a>  |
 | <sub>May. 22,2017</sub> | <sub>~~Oct. 10,2017~~</sub> | <sub>DSTC6: Dialogue Breakdown Detection</sub> | <sub>[dstc6-break](https://dbd-challenge.github.io/dbdc3/)</sub> |<a href="https://github.com/dbd-challenge/dbdc3/">:scroll:</a>  |
+| <sub>Oct. ,2017</sub> | <sub>~~Fev. 14,2017~~</sub> | <sub>The Spoken CALL Shared Task - Second Edition</sub> | <sub>[spokencall](https://regulus.unige.ch/spokencallsharedtask_2ndedition/)</sub> |<a href="https://regulus.unige.ch/spokencallsharedtask/Downloads/SLaTE_2017_paper_37.pdf">:scroll:</a> |
 
 ---
 ## Machine Learning
