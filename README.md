@@ -10,12 +10,6 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Apr. 17, 2018**</sub> | <sub>**Jun. 8, 2018**</sub> | <sub>ActivityNet2018: Large Scale Activity Recognition (CVPR 2018)</sub> | <sub>[activitynet](http://activity-net.org/challenges/2018/challenge.html)</sub> | <a href="https://github.com/activitynet/ActivityNet">:scroll:</a> |
-| <sub>**Apr. 17, 2018**</sub> | <sub>**Jun. 8, 2018**</sub> | <sub>ActivityNet2018: Moments in Time (CVPR 2018)</sub> | <sub>[activitynet-moments](http://moments.csail.mit.edu/challenge.html)</sub> | <a href="https://github.com/metalbubble/moments_models">:scroll:</a> |
-| <sub>**Apr. 17, 2018**</sub> | <sub>**Jun. 8, 2018**</sub> | <sub>ActivityNet2018: Spatio-temporal Action Localization (CVPR 2018)</sub> | <sub>[activitynet-ava](http://activity-net.org/challenges/2018/tasks/guest_ava.html)</sub> | <a href="https://research.google.com/ava/download.html">:scroll:</a> |
-| <sub>**Mar. 22, 2018**</sub> | <sub>**Jun. 10, 2018**</sub> | <sub>LPIRC: Low Power Image Recognition Challenge (CVPR 2018)</sub> | <sub>[lpirc2018](https://rebootingcomputing.ieee.org/lpirc)</sub> | <a href="https://github.com/ieeelpirc">:scroll:</a> |
-| <sub>**Mar. 22, 2018**</sub> | <sub>**Jun. 10, 2018**</sub> | <sub>LIP: Look into Person (CVPR 2018)</sub> | <sub>[lip2018](http://sysu-hcp.net/lip/index.php)</sub> |  |
-| <sub>**Mar. 22, 2018**</sub> | <sub>**Jun. 10, 2018**</sub> | <sub>MHP: Multi-Human Parsing (CVPR 2018)</sub> | <sub>[mhp2018](https://lv-mhp.github.io/)</sub> |  |
 | <sub>**Jan., 2018**</sub> | <sub>**Jun. 26, 2018**</sub> | <sub>EmotiW: 6th Emotion Recognition in the Wild Challenge (ICMI 2018)</sub> | <sub>[emotiw2018](https://sites.google.com/view/emotiw2018)</sub> | <a href="https://sites.google.com/view/emotiw2018/challenge-details">:scroll:</a>  |
 | <sub>**Apr. 19, 2018**</sub> | <sub>**Jun. 30, 2018**</sub> | <sub>The Audio/Visual Emotion Challenge and Workshop (AVEC 2018)</sub> | <sub>[avec2018](https://sites.google.com/view/avec2018/home)</sub> | |
 | <sub>**May, 2018**</sub> | <sub>**Aug. 10, 2018**</sub> | <sub>COCO2018: Object Detection Task (ECCV 2018)</sub> | <sub>[coco2018-detection](http://cocodataset.org/#detection-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
@@ -41,6 +35,12 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Feb. 15, 2018</sub> | <sub>~~May 22, 2018~~</sub> | <sub>Large-Scale Landmark Recognition: A Challenge (CVPR 2018)</sub> | <sub>[landmarkscvprw18](https://landmarkscvprw18.github.io/)</sub> | <a href="https://ai.googleblog.com/2018/03/google-landmarks-new-dataset-and.html">:scroll:</a> |
 | <sub>Jan. 15, 2018</sub> | <sub>~~May 29, 2018~~</sub> | <sub>CLIC: Challenge on Learnt Image Compression (CVPR 2018)</sub> | <sub>[clic2018](http://www.compression.cc/challenge/)</sub> |  |
 | <sub>2018</sub> | <sub>~~Jun. 01, 2018~~</sub> | <sub>ROB2018: Robust Vision Challenge (CVPR 2018)</sub> | <sub>[rob2018](http://www.robustvision.net/)</sub> |  |
+| <sub>**Apr. 17, 2018**</sub> | <sub>~~Jun. 8, 2018~~</sub> | <sub>ActivityNet2018: Large Scale Activity Recognition (CVPR 2018)</sub> | <sub>[activitynet](http://activity-net.org/challenges/2018/challenge.html)</sub> | <a href="https://github.com/activitynet/ActivityNet">:scroll:</a> |
+| <sub>**Apr. 17, 2018**</sub> | <sub>~~Jun. 8, 2018~~</sub> | <sub>ActivityNet2018: Moments in Time (CVPR 2018)</sub> | <sub>[activitynet-moments](http://moments.csail.mit.edu/challenge.html)</sub> | <a href="https://github.com/metalbubble/moments_models">:scroll:</a> |
+| <sub>**Apr. 17, 2018**</sub> | <sub>~~Jun. 8, 2018~~</sub> | <sub>ActivityNet2018: Spatio-temporal Action Localization (CVPR 2018)</sub> | <sub>[activitynet-ava](http://activity-net.org/challenges/2018/tasks/guest_ava.html)</sub> | <a href="https://research.google.com/ava/download.html">:scroll:</a> |
+| <sub>**Mar. 22, 2018**</sub> | <sub>~~Jun. 10, 2018~~</sub> | <sub>LPIRC: Low Power Image Recognition Challenge (CVPR 2018)</sub> | <sub>[lpirc2018](https://rebootingcomputing.ieee.org/lpirc)</sub> | <a href="https://github.com/ieeelpirc">:scroll:</a> |
+| <sub>**Mar. 22, 2018**</sub> | <sub>~~Jun. 10, 2018~~</sub> | <sub>LIP: Look into Person (CVPR 2018)</sub> | <sub>[lip2018](http://sysu-hcp.net/lip/index.php)</sub> |  <a href="https://github.com/Engineering-Course/LIP_SSL">:scroll:</a> |
+| <sub>**Mar. 22, 2018**</sub> | <sub>~~Jun. 10, 2018~~</sub> | <sub>MHP: Multi-Human Parsing (CVPR 2018)</sub> | <sub>[mhp2018](https://lv-mhp.github.io/)</sub> | |
 
 ---
 ## Language 
