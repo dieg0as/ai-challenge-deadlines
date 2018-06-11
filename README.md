@@ -11,7 +11,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
 | <sub>**Jan., 2018**</sub> | <sub>**Jun. 26, 2018**</sub> | <sub>EmotiW: 6th Emotion Recognition in the Wild Challenge (ICMI 2018)</sub> | <sub>[emotiw2018](https://sites.google.com/view/emotiw2018)</sub> | <a href="https://sites.google.com/view/emotiw2018/challenge-details">:scroll:</a>  |
-| <sub>**Apr. 19, 2018**</sub> | <sub>**Jun. 30, 2018**</sub> | <sub>The Audio/Visual Emotion Challenge and Workshop (AVEC 2018)</sub> | <sub>[avec2018](https://sites.google.com/view/avec2018/home)</sub> | |
+| <sub>**Apr. 19, 2018**</sub> | <sub>**Jun. 30, 2018**</sub> | <sub>The Audio/Visual Emotion Challenge and Workshop (AVEC 2018)</sub> | <sub>[avec2018](https://sites.google.com/view/avec2018/home)</sub> | <a href="https://github.com/AudioVisualEmotionChallenge/AVEC2018">:scroll:</a> |
 | <sub>**May, 2018**</sub> | <sub>**Aug. 10, 2018**</sub> | <sub>COCO2018: Object Detection Task (ECCV 2018)</sub> | <sub>[coco2018-detection](http://cocodataset.org/#detection-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
 | <sub>**May, 2018**</sub> | <sub>**Aug. 10, 2018**</sub> | <sub>COCO2018: Keypoint Detection Task (ECCV 2018)</sub> | <sub>[coco2018-keypoint](http://cocodataset.org/#keypoints-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
 | <sub>**May, 2018**</sub> | <sub>**Aug. 10, 2018**</sub> | <sub>COCO2018: Panoptic Segmentation Task (ECCV 2018)</sub> | <sub>[coco2018-panoptic](http://cocodataset.org/#panoptic-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
@@ -67,8 +67,8 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Apr., 2018**</sub> | <sub>**Oct. 10, 2018**</sub>  | <sub>NIST 2018 Speaker Recognition Evaluation (SRE18), co-located IEEE SLT2018 </sub> | <sub>[sre2018](https://www.nist.gov/itl/iad/mig/nist-2018-speaker-recognition-evaluation)</sub> | <a href="https://www.nist.gov/file/453891">:scroll:</a>  |
 | <sub>**May. 10, 2018**</sub> | <sub>**Sep. 17, 2018**</sub> | <sub>The 1st Multi-target speaker detection and identification Challenge Evaluation</sub> | <sub>[mce2018](http://mce2018.org/)</sub> | <a href="https://github.com/swshon/multi-speakerID">:scroll:</a> |
+| <sub>**Apr., 2018**</sub> | <sub>**Oct. 10, 2018**</sub>  | <sub>NIST 2018 Speaker Recognition Evaluation (SRE18), co-located IEEE SLT2018 </sub> | <sub>[sre2018](https://www.nist.gov/itl/iad/mig/nist-2018-speaker-recognition-evaluation)</sub> | <a href="https://www.nist.gov/file/453891">:scroll:</a>  |
 | <sub>Jan. 30, 2018</sub> | <sub>~~Mar. 23, 2018~~</sub> | <sub>The First DIHARD Speech Diarization Challenge</sub> | <sub>[dihard](https://coml.lscp.ens.fr/dihard/index.html)</sub> | <a href="https://github.com/nryant/dscore">:scroll:</a> |
 
 ---
