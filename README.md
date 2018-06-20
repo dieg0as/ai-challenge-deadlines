@@ -18,6 +18,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>**May, 2018**</sub> | <sub>**Aug. 10, 2018**</sub> | <sub>Mapillary: Object Detection Task (ECCV 2018)</sub> | <sub>[mapillary-object](http://research.mapillary.com/eccv18/#detection)</sub> |<a href="https://github.com/mapillary/mapillary_tools">:scroll:</a> |
 | <sub>**May, 2018**</sub> | <sub>**Aug. 10, 2018**</sub> | <sub>Mapillary: Panoptic Segmentation Task (ECCV 2018)</sub> | <sub>[mapillary-panoptic](http://research.mapillary.com/eccv18/#panoptic)</sub> |<a href="https://github.com/mapillary/mapillary_tools">:scroll:</a> |
 | <sub>**Jun. 04, 2018**</sub> | <sub>**mid-Aug., 2018**</sub> | <sub>Visual Dialog Challenge 2018 (ECCV 2018)</sub> | <sub>[visual-dialog](https://visualdialog.org/challenge/2018)</sub> |<a href="https://github.com/batra-mlp-lab/visdial">:scroll:</a> |
+| <sub>**Jun. 25, 2018**</sub> | <sub>**Nov. 1, 2018**</sub> | <sub>NIPS 2018: Adversarial Vision Challenge</sub> | <sub>[adversarial-vision](https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge)</sub> | |
 | <sub>**May, 2018**</sub> | <sub>**2018**</sub> | <sub>COCO2018: Stuff Segmentation Task</sub> | <sub>[coco2018-stuff](http://cocodataset.org/#stuff-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Image Super-Resolution (CVPR 2018)</sub> | <sub>[ntire2018-super](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Image Dehazing (CVPR 2018)</sub> | <sub>[ntire2018-dehazing](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
@@ -60,6 +61,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
+| <sub>**Jun., 2018**</sub> | <sub>**Sep. 16, 2018**</sub> | <sub>NIPS 2018: AI for Prosthetics Challenge</sub> | <sub>[prosthetics2018](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge)</sub> | <a href="https://github.com/stanfordnmbl/osim-rl">:scroll:</a> |
 
 ---
 ## Speaker
