@@ -10,8 +10,6 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Jan., 2018**</sub> | <sub>**Jun. 26, 2018**</sub> | <sub>EmotiW: 6th Emotion Recognition in the Wild Challenge (ICMI 2018)</sub> | <sub>[emotiw2018](https://sites.google.com/view/emotiw2018)</sub> | <a href="https://sites.google.com/view/emotiw2018/challenge-details">:scroll:</a>  |
-| <sub>**Apr. 19, 2018**</sub> | <sub>**Jun. 30, 2018**</sub> | <sub>The Audio/Visual Emotion Challenge and Workshop (AVEC 2018)</sub> | <sub>[avec2018](https://sites.google.com/view/avec2018/home)</sub> | <a href="https://github.com/AudioVisualEmotionChallenge/AVEC2018">:scroll:</a> |
 | <sub>**Mai., 2018**</sub> | <sub>**Jul. 25, 2018**</sub> | <sub>PIRM2018: Perceptual Image Enhancement on Smartphones (ECCV 2018)</sub> | <sub>[aimobile2018](http://ai-benchmark.com/challenge.html)</sub> | <a href="https://github.com/aiff22/ai-challenge">:scroll:</a> |
 | <sub>**Mai., 2018**</sub> | <sub>**Jul. 25, 2018**</sub> | <sub>PIRM2018: Challenge on Perceptual Super Resolution (ECCV 2018)</sub> | <sub>[pirm-sr2018](https://www.pirm2018.org/PIRM-SR.html)</sub> |  |
 | <sub>**Mai., 2018**</sub> | <sub>**Jul. 25, 2018**</sub> | <sub>PIRM2018: Challenge on Example-Based Spectral Image Super-Resolution (ECCV 2018)</sub> | <sub>[pirm-sr-hr2018](http://users.cecs.anu.edu.au/~arobkell/PIRM2018/www/PIRM-HS-SR.html)</sub> |  |
@@ -46,6 +44,11 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Mar. 22, 2018</sub> | <sub>~~Jun. 10, 2018~~</sub> | <sub>LPIRC: Low Power Image Recognition Challenge (CVPR 2018)</sub> | <sub>[lpirc2018](https://rebootingcomputing.ieee.org/lpirc)</sub> | <a href="https://github.com/ieeelpirc">:scroll:</a> |
 | <sub>Mar. 22, 2018</sub> | <sub>~~Jun. 10, 2018~~</sub> | <sub>LIP: Look into Person (CVPR 2018)</sub> | <sub>[lip2018](http://sysu-hcp.net/lip/index.php)</sub> |  <a href="https://github.com/Engineering-Course/LIP_SSL">:scroll:</a> |
 | <sub>Mar. 22, 2018</sub> | <sub>~~Jun. 10, 2018~~</sub> | <sub>MHP: Multi-Human Parsing (CVPR 2018)</sub> | <sub>[mhp2018](https://lv-mhp.github.io/)</sub> | |
+| <sub>Jan., 2018</sub> | <sub>~~Jun. 26, 2018~~</sub> | <sub>EmotiW: 6th Emotion Recognition in the Wild Challenge (ICMI 2018)</sub> | <sub>[emotiw2018](https://sites.google.com/view/emotiw2018)</sub> | <a href="https://sites.google.com/view/emotiw2018/challenge-details">:scroll:</a>  |
+| <sub>Apr. 19, 2018</sub> | <sub>~~Jun. 30, 2018~~</sub> | <sub>The Audio/Visual Emotion Challenge and Workshop (AVEC 2018)</sub> | <sub>[avec2018](https://sites.google.com/view/avec2018/home)</sub> | <a href="https://github.com/AudioVisualEmotionChallenge/AVEC2018">:scroll:</a> |
+
+
+
 
 ---
 ## Language 
@@ -65,6 +68,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
+| <sub>**Jul., 10 2018**</sub> | <sub>**Jul. 22, 2018**</sub> | <sub>AWS DeepLens Challenge - Inclusivity</sub> | <sub>[aws-deeplens](https://aws.amazon.com/deeplens/challenge/)</sub> | |
 | <sub>**Jun., 2018**</sub> | <sub>**Sep. 16, 2018**</sub> | <sub>NIPS 2018: AI for Prosthetics Challenge</sub> | <sub>[prosthetics2018](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge)</sub> | <a href="https://github.com/stanfordnmbl/osim-rl">:scroll:</a> |
 
 ---
@@ -103,3 +107,13 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
+---
+---
+## Useful deadlines
+- [ai-deadlines][1] by @abhshkdz
+- [geo-deadlines][2] by @LukasMosser
+- [neuro-deadlines][3] by @tbryn
+
+[1]: http://aideadlin.es/
+[2]: http://geodeadlin.es/
+[3]: http://neuro-deadlines.tbryngrey.com/
