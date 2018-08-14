@@ -10,16 +10,14 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Mai., 2018**</sub> | <sub>**Jul. 25, 2018**</sub> | <sub>PIRM2018: Perceptual Image Enhancement on Smartphones (ECCV 2018)</sub> | <sub>[aimobile2018](http://ai-benchmark.com/challenge.html)</sub> | <a href="https://github.com/aiff22/ai-challenge">:scroll:</a> |
-| <sub>**Mai., 2018**</sub> | <sub>**Jul. 25, 2018**</sub> | <sub>PIRM2018: Challenge on Perceptual Super Resolution (ECCV 2018)</sub> | <sub>[pirm-sr2018](https://www.pirm2018.org/PIRM-SR.html)</sub> |  |
-| <sub>**Mai., 2018**</sub> | <sub>**Jul. 25, 2018**</sub> | <sub>PIRM2018: Challenge on Example-Based Spectral Image Super-Resolution (ECCV 2018)</sub> | <sub>[pirm-sr-hr2018](http://users.cecs.anu.edu.au/~arobkell/PIRM2018/www/PIRM-HS-SR.html)</sub> |  |
-| <sub>**May, 2018**</sub> | <sub>**Aug. 10, 2018**</sub> | <sub>COCO2018: Object Detection Task (ECCV 2018)</sub> | <sub>[coco2018-detection](http://cocodataset.org/#detection-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
-| <sub>**May, 2018**</sub> | <sub>**Aug. 10, 2018**</sub> | <sub>COCO2018: Keypoint Detection Task (ECCV 2018)</sub> | <sub>[coco2018-keypoint](http://cocodataset.org/#keypoints-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
-| <sub>**May, 2018**</sub> | <sub>**Aug. 10, 2018**</sub> | <sub>COCO2018: Panoptic Segmentation Task (ECCV 2018)</sub> | <sub>[coco2018-panoptic](http://cocodataset.org/#panoptic-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
-| <sub>**May, 2018**</sub> | <sub>**Aug. 10, 2018**</sub> | <sub>Mapillary: Object Detection Task (ECCV 2018)</sub> | <sub>[mapillary-object](http://research.mapillary.com/eccv18/#detection)</sub> |<a href="https://github.com/mapillary/mapillary_tools">:scroll:</a> |
-| <sub>**May, 2018**</sub> | <sub>**Aug. 10, 2018**</sub> | <sub>Mapillary: Panoptic Segmentation Task (ECCV 2018)</sub> | <sub>[mapillary-panoptic](http://research.mapillary.com/eccv18/#panoptic)</sub> |<a href="https://github.com/mapillary/mapillary_tools">:scroll:</a> |
-| <sub>**Jun. 04, 2018**</sub> | <sub>**mid-Aug., 2018**</sub> | <sub>Visual Dialog Challenge 2018 (ECCV 2018)</sub> | <sub>[visual-dialog](https://visualdialog.org/challenge/2018)</sub> |<a href="https://github.com/batra-mlp-lab/visdial">:scroll:</a> |
+| <sub>**Jun. 04, 2018**</sub> | <sub>**Aug. 15, 2018**</sub> | <sub>Visual Dialog Challenge 2018 (ECCV 2018)</sub> | <sub>[visual-dialog](https://visualdialog.org/challenge/2018)</sub> |<a href="https://github.com/batra-mlp-lab/visdial">:scroll:</a> |
+| <sub>**May, 2018**</sub> | <sub>**Aug. 17, 2018**</sub> | <sub>COCO2018: Object Detection Task (ECCV 2018)</sub> | <sub>[coco2018-detection](http://cocodataset.org/#detection-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
+| <sub>**May, 2018**</sub> | <sub>**Aug. 17, 2018**</sub> | <sub>COCO2018: Keypoint Detection Task (ECCV 2018)</sub> | <sub>[coco2018-keypoint](http://cocodataset.org/#keypoints-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
+| <sub>**May, 2018**</sub> | <sub>**Aug. 17, 2018**</sub> | <sub>COCO2018: Panoptic Segmentation Task (ECCV 2018)</sub> | <sub>[coco2018-panoptic](http://cocodataset.org/#panoptic-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
+| <sub>**May, 2018**</sub> | <sub>**Aug. 17, 2018**</sub> | <sub>Mapillary: Object Detection Task (ECCV 2018)</sub> | <sub>[mapillary-object](http://research.mapillary.com/eccv18/#detection)</sub> |<a href="https://github.com/mapillary/mapillary_tools">:scroll:</a> |
+| <sub>**May, 2018**</sub> | <sub>**Aug. 17, 2018**</sub> | <sub>Mapillary: Panoptic Segmentation Task (ECCV 2018)</sub> | <sub>[mapillary-panoptic](http://research.mapillary.com/eccv18/#panoptic)</sub> |<a href="https://github.com/mapillary/mapillary_tools">:scroll:</a> |
 | <sub>**Apr. 09, 2018**</sub> | <sub>**Aug. 22, 2018**</sub> | <sub>VisDA-2018: Visual Domain Adaptation Challenge (ECCV 2018)</sub> | <sub>[visda2018](http://ai.bu.edu/visda-2018/)</sub> |<a href="https://github.com/VisionLearningGroup/visda-2018-public">:scroll:</a> |
+| <sub>**Aug. 08, 2018**</sub> | <sub>**Sep. 05, 2018**</sub> | <sub>Zalo AI Challenge 2018: Landmark Identification</sub> | <sub>[zalo2018-landmark](https://challenge.zalo.ai/challenges)</sub> | |
 | <sub>**Jun. 25, 2018**</sub> | <sub>**Nov. 1, 2018**</sub> | <sub>NIPS 2018: Adversarial Vision Challenge</sub> | <sub>[adversarial-vision](https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge)</sub> | |
 | <sub>**May, 2018**</sub> | <sub>**2018**</sub> | <sub>COCO2018: Stuff Segmentation Task</sub> | <sub>[coco2018-stuff](http://cocodataset.org/#stuff-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Image Super-Resolution (CVPR 2018)</sub> | <sub>[ntire2018-super](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
@@ -46,7 +44,9 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Mar. 22, 2018</sub> | <sub>~~Jun. 10, 2018~~</sub> | <sub>MHP: Multi-Human Parsing (CVPR 2018)</sub> | <sub>[mhp2018](https://lv-mhp.github.io/)</sub> | |
 | <sub>Jan., 2018</sub> | <sub>~~Jun. 26, 2018~~</sub> | <sub>EmotiW: 6th Emotion Recognition in the Wild Challenge (ICMI 2018)</sub> | <sub>[emotiw2018](https://sites.google.com/view/emotiw2018)</sub> | <a href="https://sites.google.com/view/emotiw2018/challenge-details">:scroll:</a>  |
 | <sub>Apr. 19, 2018</sub> | <sub>~~Jun. 30, 2018~~</sub> | <sub>The Audio/Visual Emotion Challenge and Workshop (AVEC 2018)</sub> | <sub>[avec2018](https://sites.google.com/view/avec2018/home)</sub> | <a href="https://github.com/AudioVisualEmotionChallenge/AVEC2018">:scroll:</a> |
-
+| <sub>**Mai., 2018**</sub> | <sub>~~Jul. 25, 2018~~</sub> | <sub>PIRM2018: Perceptual Image Enhancement on Smartphones (ECCV 2018)</sub> | <sub>[aimobile2018](http://ai-benchmark.com/challenge.html)</sub> | <a href="https://github.com/aiff22/ai-challenge">:scroll:</a> |
+| <sub>**Mai., 2018**</sub> | <sub>~~Jul. 25, 2018~~</sub> | <sub>PIRM2018: Challenge on Perceptual Super Resolution (ECCV 2018)</sub> | <sub>[pirm-sr2018](https://www.pirm2018.org/PIRM-SR.html)</sub> |  |
+| <sub>**Mai., 2018**</sub> | <sub>~~Jul. 25, 2018~~</sub> | <sub>PIRM2018: Challenge on Example-Based Spectral Image Super-Resolution (ECCV 2018)</sub> | <sub>[pirm-sr-hr2018](http://users.cecs.anu.edu.au/~arobkell/PIRM2018/www/PIRM-HS-SR.html)</sub> |  |
 
 
 
@@ -68,7 +68,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Jul., 10 2018**</sub> | <sub>**Jul. 22, 2018**</sub> | <sub>AWS DeepLens Challenge - Inclusivity</sub> | <sub>[aws-deeplens](https://aws.amazon.com/deeplens/challenge/)</sub> | |
+| <sub>**Jul., 10 2018**</sub> | <sub>**Aug. 19, 2018**</sub> | <sub>AWS DeepLens Challenge - Inclusivity</sub> | <sub>[aws-deeplens](https://aws.amazon.com/deeplens/challenge/)</sub> | |
 | <sub>**Jun., 2018**</sub> | <sub>**Sep. 16, 2018**</sub> | <sub>NIPS 2018: AI for Prosthetics Challenge</sub> | <sub>[prosthetics2018](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge)</sub> | <a href="https://github.com/stanfordnmbl/osim-rl">:scroll:</a> |
 
 ---
@@ -89,12 +89,8 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Mar. 30, 2018**</sub> | <sub>**Jul. 31, 2018**</sub> | <sub>DCASE2018: Acoustic Scene Classification </sub> | <sub>[dcase2018-task1](http://dcase.community/challenge2018/task-acoustic-scene-classification)</sub> | <a href="https://github.com/DCASE-REPO/dcase2018_baseline/tree/master/task1">:scroll:</a> |
-| <sub>**Mar. 30, 2018**</sub> | <sub>**Jul. 31, 2018**</sub> | <sub>DCASE2018: General Purpose Audio Tagging </sub> | <sub>[dcase2018-task2](http://dcase.community/challenge2018/task-general-purpose-audio-tagging)</sub> | <a href="https://github.com/DCASE-REPO/dcase2018_baseline/tree/master/task2">:scroll:</a> |
-| <sub>**Mar. 30, 2018**</sub> | <sub>**Jul. 31, 2018**</sub> | <sub>DCASE2018: Bird Audio Detection </sub> | <sub>[dcase2018-task3](http://dcase.community/challenge2018/task-bird-audio-detection)</sub> | <a href="https://github.com/DCASE-REPO/bulbul_bird_detection_dcase2018">:scroll:</a> |
-| <sub>**Mar. 30, 2018**</sub> | <sub>**Jul. 31, 2018**</sub> | <sub>DCASE2018: Event Detection in Domestic Env.</sub> | <sub>[dcase2018-task4](http://dcase.community/challenge2018/task-large-scale-weakly-labeled-semi-supervised-sound-event-detection)</sub> | <a href="https://github.com/DCASE-REPO/dcase2018_baseline/tree/master/task4/">:scroll:</a> |
-| <sub>**Mar. 30, 2018**</sub> | <sub>**Jul. 31, 2018**</sub> | <sub>DCASE2018: Monitoring domestic activities</sub> | <sub>[dcase2018-task5](http://dcase.community/challenge2018/task-monitoring-domestic-activities)</sub> | <a href="https://github.com/DCASE-REPO/dcase2018_baseline/tree/master/task5">:scroll:</a> |
-| <sub>**Mar. 05, 2018**</sub> | <sub>**Aug. 03, 2018**</sub> | <sub>The 5th CHiME Speech Separation and Recognition Challenge</sub> | <sub>[chime5](http://spandh.dcs.shef.ac.uk/chime_challenge/)</sub> | <a href="https://github.com/kaldi-asr/kaldi/tree/master/egs/chime5">:scroll:</a> |
+| <sub>**Aug. 08, 2018**</sub> | <sub>**Sep. 05, 2018**</sub> | <sub>Zalo AI Challenge 2018: Music Genre Classification</sub> | <sub>[zalo2018-music](https://challenge.zalo.ai/challenges)</sub> | |
+| <sub>**Aug. 08, 2018**</sub> | <sub>**Sep. 05, 2018**</sub> | <sub>Zalo AI Challenge 2018: Voice Gender/Accent Classification</sub> | <sub>[zalo2018-voice](https://challenge.zalo.ai/challenges)</sub> | |
 | <sub>**Jun. 18, 2018**</sub> | <sub>**Oct. 21, 2018**</sub> | <sub>Albayzin 2018 Search on Speech Challenge (SoSC)</sub> | <sub>[sosc2018](http://iberspeech2018.talp.cat/index.php/albayzin-evaluation-challenges/search-on-speech-evaluation/)</sub> | |
 | <sub>**Jun. 18, 2018**</sub> | <sub>**Oct. 21, 2018**</sub> | <sub>IberSPEECH-RTVE 2018 Speech to Text Transcription Challenge (S2TC)</sub> | <sub>[s2tc2018](http://catedrartve.unizar.es/reto2018/evaluations2018.html#S2T)</sub> | |
 | <sub>**Nov. 20, 2018**</sub> | <sub>**Abr. 27, 2019**</sub> | <sub>NIST 2019 Speech Analytic Technologies Evaluation (OpenSAT 2019)</sub> | <sub>[opensat2019](https://www.nist.gov/itl/iad/mig/opensat)</sub> |  |
@@ -104,7 +100,12 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Abr. 25, 2017</sub> | <sub>~~Jun. 20, 2018~~</sub> | <sub>NIST 2017 (Pilot) Speech Analytic Technologies Evaluation (OpenSAT)</sub> | <sub>[opensat2017](https://www.nist.gov/itl/iad/mig/nist-2017-pilot-speech-analytic-technologies-evaluation)</sub> | <a href="https://www.nist.gov/document/nist2017pilotopensatevalplanfinalpdf">:scroll:</a>  |
 | <sub>Dez. 30, 2016</sub> | <sub>~~Jul. 06, 2017~~</sub> | <sub>ZeroSpeech2017: Unsupervised subword modeling </sub> | <sub>[zero2017-task1](http://sapience.dec.ens.fr/bootphon/2017/page_2.html)</sub> | <a href="https://github.com/bootphon/zerospeech2017/tree/master/track1">:scroll:</a> |
 | <sub>Dez. 30, 2016</sub> | <sub>~~Jul. 06, 2017~~</sub> | <sub>ZeroSpeech2017: Spoken term discovery </sub> | <sub>[zero2017-task2](http://sapience.dec.ens.fr/bootphon/2017/page_3.html)</sub> | <a href="https://github.com/bootphon/zerospeech2017/tree/master/track2">:scroll:</a> |
-
+| <sub>**Mar. 30, 2018**</sub> | <sub>~~Jul. 31, 2018~~</sub> | <sub>DCASE2018: Acoustic Scene Classification </sub> | <sub>[dcase2018-task1](http://dcase.community/challenge2018/task-acoustic-scene-classification)</sub> | <a href="https://github.com/DCASE-REPO/dcase2018_baseline/tree/master/task1">:scroll:</a> |
+| <sub>**Mar. 30, 2018**</sub> | <sub>~~Jul. 31, 2018~~</sub> | <sub>DCASE2018: General Purpose Audio Tagging </sub> | <sub>[dcase2018-task2](http://dcase.community/challenge2018/task-general-purpose-audio-tagging)</sub> | <a href="https://github.com/DCASE-REPO/dcase2018_baseline/tree/master/task2">:scroll:</a> |
+| <sub>**Mar. 30, 2018**</sub> | <sub>~~Jul. 31, 2018~~</sub> | <sub>DCASE2018: Bird Audio Detection </sub> | <sub>[dcase2018-task3](http://dcase.community/challenge2018/task-bird-audio-detection)</sub> | <a href="https://github.com/DCASE-REPO/bulbul_bird_detection_dcase2018">:scroll:</a> |
+| <sub>**Mar. 30, 2018**</sub> | <sub>~~Jul. 31, 2018~~</sub> | <sub>DCASE2018: Event Detection in Domestic Env.</sub> | <sub>[dcase2018-task4](http://dcase.community/challenge2018/task-large-scale-weakly-labeled-semi-supervised-sound-event-detection)</sub> | <a href="https://github.com/DCASE-REPO/dcase2018_baseline/tree/master/task4/">:scroll:</a> |
+| <sub>**Mar. 30, 2018**</sub> | <sub>~~Jul. 31, 2018~~</sub> | <sub>DCASE2018: Monitoring domestic activities</sub> | <sub>[dcase2018-task5](http://dcase.community/challenge2018/task-monitoring-domestic-activities)</sub> | <a href="https://github.com/DCASE-REPO/dcase2018_baseline/tree/master/task5">:scroll:</a> |
+| <sub>**Mar. 05, 2018**</sub> | <sub>~~Aug. 03, 2018~~</sub> | <sub>The 5th CHiME Speech Separation and Recognition Challenge</sub> | <sub>[chime5](http://spandh.dcs.shef.ac.uk/chime_challenge/)</sub> | <a href="https://github.com/kaldi-asr/kaldi/tree/master/egs/chime5">:scroll:</a> |
 
 ---
 ## Robotics
