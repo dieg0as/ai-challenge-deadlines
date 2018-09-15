@@ -10,7 +10,9 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Jun. 25, 2018**</sub> | <sub>**Nov. 1, 2018**</sub> | <sub>NIPS 2018: Adversarial Vision Challenge</sub> | <sub>[adversarial-vision](https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge)</sub> | |
+| <sub>**Jun. 25, 2018**</sub> | <sub>**Nov. 1, 2018**</sub> | <sub>NIPS 2018: Adversarial Vision Challenge (Robust Model Track)</sub> | <sub>[adversarial-robust](https://www.crowdai.org/organizers/bethgelab/challenges/nips-2018-adversarial-vision-challenge-robust-model-track)</sub> | |
+| <sub>**Jun. 25, 2018**</sub> | <sub>**Nov. 1, 2018**</sub> | <sub>NIPS 2018: Adversarial Vision Challenge (Untargeted Attack Track)</sub> | <sub>[adversarial-untargeted](https://www.crowdai.org/organizers/bethgelab/challenges/nips-2018-adversarial-vision-challenge-untargeted-attack-track)</sub> | |
+| <sub>**Jun. 25, 2018**</sub> | <sub>**Nov. 1, 2018**</sub> | <sub>NIPS 2018: Adversarial Vision Challenge (Targeted Attack Track)</sub> | <sub>[adversarial-target](https://www.crowdai.org/organizers/bethgelab/challenges/nips-2018-adversarial-vision-challenge-targeted-attack-track/)</sub> | |
 | <sub>**May, 2018**</sub> | <sub>**2018**</sub> | <sub>COCO2018: Stuff Segmentation Task</sub> | <sub>[coco2018-stuff](http://cocodataset.org/#stuff-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Image Super-Resolution (CVPR 2018)</sub> | <sub>[ntire2018-super](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Image Dehazing (CVPR 2018)</sub> | <sub>[ntire2018-dehazing](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
@@ -68,6 +70,11 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
 | <sub>**Jun., 2018**</sub> | <sub>**Sep. 16, 2018**</sub> | <sub>NIPS 2018: AI for Prosthetics Challenge</sub> | <sub>[prosthetics2018](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge)</sub> | <a href="https://github.com/stanfordnmbl/osim-rl">:scroll:</a> |
+| <sub>**Set. 7, 2018**</sub> | <sub>**Nov. 5, 2018**</sub> | <sub>NIPS 2018: TrackML Particle Tracking Challenge</sub> | <sub>[trackml2018](https://competitions.codalab.org/competitions/20112)</sub> | |
+| <sub>**Jul. 30, 2018**</sub> | <sub>**Nov. 6, 2018**</sub> | <sub>NIPS 2018: AutoML for Lifelong Machine Learning</sub> | <sub>[automl2018](https://www.4paradigm.com/competition/nips2018)</sub> | |
+| <sub>**Oct. 29, 2018**</sub> | <sub>**Nov. 12, 2018**</sub> | <sub>NIPS 2018: Inclusive Images Challenge </sub> | <sub>[inclusive]()</sub> | |
+| <sub>**Jun. 1, 2018**</sub> | <sub>**Nov. 26, 2018**</sub> | <sub>NIPS 2018: Pommerman </sub> | <sub>[pommerman](https://www.pommerman.com/)</sub> | <a href="https://github.com/MultiAgentLearning/playground">:scroll:</a> |
+| <sub>**Aug. 7, 2018**</sub> | <sub>**Nov. 30, 2018**</sub> | <sub>NIPS 2018: The AI Driving Olympics (AI-DO)</sub> | <sub>[ai-do](https://www.duckietown.org/research/AI-Driving-Olympics)</sub> | <a href="http://docs.duckietown.org/AIDO/out/ml_primer.html">:scroll:</a> |
 | <sub>Jul., 10 2018</sub> | <sub>~~Aug. 19, 2018~~</sub> | <sub>AWS DeepLens Challenge - Inclusivity</sub> | <sub>[aws-deeplens](https://aws.amazon.com/deeplens/challenge/)</sub> | |
 
 ---
@@ -107,11 +114,6 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Mar. 30, 2018</sub> | <sub>~~Jul. 31, 2018~~</sub> | <sub>DCASE2018: Monitoring domestic activities</sub> | <sub>[dcase2018-task5](http://dcase.community/challenge2018/task-monitoring-domestic-activities)</sub> | <a href="https://github.com/DCASE-REPO/dcase2018_baseline/tree/master/task5">:scroll:</a> |
 | <sub>Mar. 05, 2018</sub> | <sub>~~Aug. 03, 2018~~</sub> | <sub>The 5th CHiME Speech Separation and Recognition Challenge</sub> | <sub>[chime5](http://spandh.dcs.shef.ac.uk/chime_challenge/)</sub> | <a href="https://github.com/kaldi-asr/kaldi/tree/master/egs/chime5">:scroll:</a> |
 
----
-## Robotics
-
-| <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
-| :--- | :--- | :--- | :--- | :--- |
 ---
 ---
 ## Useful deadlines
