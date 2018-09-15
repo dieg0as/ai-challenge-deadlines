@@ -10,8 +10,6 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Apr. 09, 2018**</sub> | <sub>**Aug. 22, 2018**</sub> | <sub>VisDA-2018: Visual Domain Adaptation Challenge (ECCV 2018)</sub> | <sub>[visda2018](http://ai.bu.edu/visda-2018/)</sub> |<a href="https://github.com/VisionLearningGroup/visda-2018-public">:scroll:</a> |
-| <sub>**Aug. 08, 2018**</sub> | <sub>**Sep. 05, 2018**</sub> | <sub>Zalo AI Challenge 2018: Landmark Identification</sub> | <sub>[zalo2018-landmark](https://challenge.zalo.ai/challenges)</sub> | |
 | <sub>**Jun. 25, 2018**</sub> | <sub>**Nov. 1, 2018**</sub> | <sub>NIPS 2018: Adversarial Vision Challenge</sub> | <sub>[adversarial-vision](https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge)</sub> | |
 | <sub>**May, 2018**</sub> | <sub>**2018**</sub> | <sub>COCO2018: Stuff Segmentation Task</sub> | <sub>[coco2018-stuff](http://cocodataset.org/#stuff-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Image Super-Resolution (CVPR 2018)</sub> | <sub>[ntire2018-super](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
@@ -47,7 +45,8 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>May, 2018</sub> | <sub>~~Aug. 17, 2018~~</sub> | <sub>COCO2018: Panoptic Segmentation Task (ECCV 2018)</sub> | <sub>[coco2018-panoptic](http://cocodataset.org/#panoptic-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
 | <sub>May, 2018</sub> | <sub>~~Aug. 17, 2018~~</sub> | <sub>Mapillary: Object Detection Task (ECCV 2018)</sub> | <sub>[mapillary-object](http://research.mapillary.com/eccv18/#detection)</sub> |<a href="https://github.com/mapillary/mapillary_tools">:scroll:</a> |
 | <sub>May, 2018</sub> | <sub>~~Aug. 17, 2018~~</sub> | <sub>Mapillary: Panoptic Segmentation Task (ECCV 2018)</sub> | <sub>[mapillary-panoptic](http://research.mapillary.com/eccv18/#panoptic)</sub> |<a href="https://github.com/mapillary/mapillary_tools">:scroll:</a> |
-
+| <sub>Apr. 09, 2018</sub> | <sub>~~Aug. 22, 2018~~</sub> | <sub>VisDA-2018: Visual Domain Adaptation Challenge (ECCV 2018)</sub> | <sub>[visda2018](http://ai.bu.edu/visda-2018/)</sub> |<a href="https://github.com/VisionLearningGroup/visda-2018-public">:scroll:</a> |
+| <sub>Aug. 08, 2018</sub> | <sub>~~Sep. 05, 2018~~</sub> | <sub>Zalo AI Challenge 2018: Landmark Identification</sub> | <sub>[zalo2018-landmark](https://challenge.zalo.ai/challenges)</sub> | |
 
 ---
 ## Language 
@@ -56,6 +55,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
 | <sub>**Apr. 21, 2018**</sub> | <sub>**Sep. 30, 2018**</sub> | <sub>The Conversational Intelligence Challenge 2 (ConvAI2)</sub> | <sub>[convai2](http://convai.io/)</sub> |<a href="https://github.com/DeepPavlov/convai">:scroll:</a>  |
+| <sub>**Ago. 21, 2018**</sub> | <sub>**Jan. 10, 2019**</sub> | <sub>SemEval19 Task 3: EmoContext</sub> | <sub>[emocontext](https://www.humanizing-ai.com/emocontext.html)</sub> |<a href="https://github.com/puneetbhakar/Emocontext">:scroll:</a>  |
 | <sub>Jul. 17, 2017</sub> | <sub>**Never**</sub> | <sub>TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension</sub> | <sub>[triviaqa](http://nlp.cs.washington.edu/triviaqa/)</sub> |<a href="https://github.com/mandarjoshi90/triviaqa">:scroll:</a> |
 | <sub>May. 22, 2017</sub> | <sub>~~Oct. 10, 2018~~</sub> | <sub>DSTC6: End-to-End Goal Oriented Dialog Learning</sub> | <sub>[dstc6-goal](http://workshop.colips.org/dstc6/index.html)</sub> |<a href="https://github.com/perezjln/dstc6-goal-oriented-end-to-end">:scroll:</a> |
 | <sub>May. 22, 2017</sub> | <sub>~~Oct. 10, 2017~~</sub> | <sub>DSTC6: End-to-End Conversation Modeling</sub> | <sub>[dstc6-conv](http://workshop.colips.org/dstc6/index.html)</sub> |<a href="https://github.com/dialogtekgeek/DSTC6-End-to-End-Conversation-Modeling">:scroll:</a>  |
