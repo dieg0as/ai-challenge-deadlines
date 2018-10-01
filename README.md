@@ -13,6 +13,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>**Jun. 25, 2018**</sub> | <sub>**Nov. 1, 2018**</sub> | <sub>NIPS 2018: Adversarial Vision Challenge (Robust Model Track)</sub> | <sub>[adversarial-robust](https://www.crowdai.org/organizers/bethgelab/challenges/nips-2018-adversarial-vision-challenge-robust-model-track)</sub> | |
 | <sub>**Jun. 25, 2018**</sub> | <sub>**Nov. 1, 2018**</sub> | <sub>NIPS 2018: Adversarial Vision Challenge (Untargeted Attack Track)</sub> | <sub>[adversarial-untargeted](https://www.crowdai.org/organizers/bethgelab/challenges/nips-2018-adversarial-vision-challenge-untargeted-attack-track)</sub> | |
 | <sub>**Jun. 25, 2018**</sub> | <sub>**Nov. 1, 2018**</sub> | <sub>NIPS 2018: Adversarial Vision Challenge (Targeted Attack Track)</sub> | <sub>[adversarial-target](https://www.crowdai.org/organizers/bethgelab/challenges/nips-2018-adversarial-vision-challenge-targeted-attack-track/)</sub> | |
+| <sub>**Sep. 15, 2018**</sub> | <sub>**Jan. 10, 2019**</sub> | <sub>2019 FG Challenge Recognizing Families In the Wild (RFIW19)</sub> | <sub>[rfiw2019-families](https://competitions.codalab.org/competitions/20180)</sub> | <a href="https://github.com/visionjo/FIW_KRT">:scroll:</a> |
 | <sub>**May, 2018**</sub> | <sub>**2018**</sub> | <sub>COCO2018: Stuff Segmentation Task</sub> | <sub>[coco2018-stuff](http://cocodataset.org/#stuff-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Image Super-Resolution (CVPR 2018)</sub> | <sub>[ntire2018-super](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Image Dehazing (CVPR 2018)</sub> | <sub>[ntire2018-dehazing](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
@@ -56,26 +57,28 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Apr. 21, 2018**</sub> | <sub>**Sep. 30, 2018**</sub> | <sub>The Conversational Intelligence Challenge 2 (ConvAI2)</sub> | <sub>[convai2](http://convai.io/)</sub> |<a href="https://github.com/DeepPavlov/convai">:scroll:</a>  |
 | <sub>**Ago. 21, 2018**</sub> | <sub>**Jan. 10, 2019**</sub> | <sub>SemEval19 Task 3: EmoContext</sub> | <sub>[emocontext](https://www.humanizing-ai.com/emocontext.html)</sub> |<a href="https://github.com/puneetbhakar/Emocontext">:scroll:</a>  |
 | <sub>Jul. 17, 2017</sub> | <sub>**Never**</sub> | <sub>TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension</sub> | <sub>[triviaqa](http://nlp.cs.washington.edu/triviaqa/)</sub> |<a href="https://github.com/mandarjoshi90/triviaqa">:scroll:</a> |
 | <sub>May. 22, 2017</sub> | <sub>~~Oct. 10, 2018~~</sub> | <sub>DSTC6: End-to-End Goal Oriented Dialog Learning</sub> | <sub>[dstc6-goal](http://workshop.colips.org/dstc6/index.html)</sub> |<a href="https://github.com/perezjln/dstc6-goal-oriented-end-to-end">:scroll:</a> |
 | <sub>May. 22, 2017</sub> | <sub>~~Oct. 10, 2017~~</sub> | <sub>DSTC6: End-to-End Conversation Modeling</sub> | <sub>[dstc6-conv](http://workshop.colips.org/dstc6/index.html)</sub> |<a href="https://github.com/dialogtekgeek/DSTC6-End-to-End-Conversation-Modeling">:scroll:</a>  |
 | <sub>May. 22, 2017</sub> | <sub>~~Oct. 10, 2017~~</sub> | <sub>DSTC6: Dialogue Breakdown Detection</sub> | <sub>[dstc6-break](https://dbd-challenge.github.io/dbdc3/)</sub> |<a href="https://github.com/dbd-challenge/dbdc3/">:scroll:</a>  |
 | <sub>Oct., 2017</sub> | <sub>~~Fev. 14, 2017~~</sub> | <sub>The Spoken CALL Shared Task - Second Edition</sub> | <sub>[spokencall](https://regulus.unige.ch/spokencallsharedtask_2ndedition/)</sub> |<a href="https://regulus.unige.ch/spokencallsharedtask/Downloads/SLaTE_2017_paper_37.pdf">:scroll:</a> |
+| <sub>Apr. 21, 2018</sub> | <sub>~~Sep. 30, 2018~~</sub> | <sub>The Conversational Intelligence Challenge 2 (ConvAI2)</sub> | <sub>[convai2](http://convai.io/)</sub> |<a href="https://github.com/DeepPavlov/convai">:scroll:</a>  |
 
 ---
 ## Machine Learning
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Jun., 2018**</sub> | <sub>**Sep. 16, 2018**</sub> | <sub>NIPS 2018: AI for Prosthetics Challenge</sub> | <sub>[prosthetics2018](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge)</sub> | <a href="https://github.com/stanfordnmbl/osim-rl">:scroll:</a> |
+| <sub>**Jun., 2018**</sub> | <sub>**Oct. 10, 2018**</sub> | <sub>IEEE ICDM 2018: Global AI Challenge on Meteorology</sub> | <sub>[ieeemeteo2018](https://tianchi.aliyun.com/competition/introduction.htm?&raceId=231662)</sub> | |
 | <sub>**Set. 7, 2018**</sub> | <sub>**Nov. 5, 2018**</sub> | <sub>NIPS 2018: TrackML Particle Tracking Challenge</sub> | <sub>[trackml2018](https://competitions.codalab.org/competitions/20112)</sub> | |
 | <sub>**Jul. 30, 2018**</sub> | <sub>**Nov. 6, 2018**</sub> | <sub>NIPS 2018: AutoML for Lifelong Machine Learning</sub> | <sub>[automl2018](https://www.4paradigm.com/competition/nips2018)</sub> | |
 | <sub>**Oct. 29, 2018**</sub> | <sub>**Nov. 12, 2018**</sub> | <sub>NIPS 2018: Inclusive Images Challenge </sub> | <sub>[inclusive]()</sub> | |
 | <sub>**Jun. 1, 2018**</sub> | <sub>**Nov. 26, 2018**</sub> | <sub>NIPS 2018: Pommerman </sub> | <sub>[pommerman](https://www.pommerman.com/)</sub> | <a href="https://github.com/MultiAgentLearning/playground">:scroll:</a> |
 | <sub>**Aug. 7, 2018**</sub> | <sub>**Nov. 30, 2018**</sub> | <sub>NIPS 2018: The AI Driving Olympics (AI-DO)</sub> | <sub>[ai-do](https://www.duckietown.org/research/AI-Driving-Olympics)</sub> | <a href="http://docs.duckietown.org/AIDO/out/ml_primer.html">:scroll:</a> |
 | <sub>Jul., 10 2018</sub> | <sub>~~Aug. 19, 2018~~</sub> | <sub>AWS DeepLens Challenge - Inclusivity</sub> | <sub>[aws-deeplens](https://aws.amazon.com/deeplens/challenge/)</sub> | |
+| <sub>Jun., 2018</sub> | <sub>~~Sep. 16, 2018~~</sub> | <sub>NIPS 2018: AI for Prosthetics Challenge</sub> | <sub>[prosthetics2018](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge)</sub> | <a href="https://github.com/stanfordnmbl/osim-rl">:scroll:</a> |
+
 
 ---
 ## Speaker
@@ -83,20 +86,17 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**May. 10, 2018**</sub> | <sub>**Sep. 17, 2018**</sub> | <sub>The 1st Multi-target speaker detection and identification Challenge Evaluation</sub> | <sub>[mce2018](http://mce2018.org/)</sub> | <a href="https://github.com/swshon/multi-speakerID">:scroll:</a> |
 | <sub>**Apr., 2018**</sub> | <sub>**Oct. 10, 2018**</sub>  | <sub>NIST 2018 Speaker Recognition Evaluation (SRE18), co-located IEEE SLT2018 </sub> | <sub>[sre2018](https://www.nist.gov/itl/iad/mig/nist-2018-speaker-recognition-evaluation)</sub> | <a href="https://www.nist.gov/file/453891">:scroll:</a>  |
 | <sub>**Jun. 18, 2018**</sub> | <sub>**Oct. 21, 2018**</sub> | <sub>IberSPEECH-RTVE 2018 Speaker Diarization Challenge (SDC)</sub> | <sub>[sdc2018](http://catedrartve.unizar.es/reto2018/evaluations2018.html#Diar)</sub> | |
 | <sub>**Jun. 18, 2018**</sub> | <sub>**Oct. 21, 2018**</sub> | <sub>IberSPEECH-RTVE 2018 Multimodal Diarization Challenge (MDC)</sub> | <sub>[mdc2018](http://catedrartve.unizar.es/reto2018/evaluations2018.html#Multi)</sub> | |
 | <sub>Jan. 30, 2018</sub> | <sub>~~Mar. 23, 2018~~</sub> | <sub>The First DIHARD Speech Diarization Challenge</sub> | <sub>[dihard](https://coml.lscp.ens.fr/dihard/index.html)</sub> | <a href="https://github.com/nryant/dscore">:scroll:</a> |
-
+| <sub>May. 10, 2018</sub> | <sub>~~Sep. 17, 2018~~</sub> | <sub>The 1st Multi-target speaker detection and identification Challenge Evaluation</sub> | <sub>[mce2018](http://mce2018.org/)</sub> | <a href="https://github.com/swshon/multi-speakerID">:scroll:</a> |
 ---
 ## Speech 
 ###### Recognition, Synthesis, Signal-Processing, ...
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Aug. 08, 2018**</sub> | <sub>**Sep. 05, 2018**</sub> | <sub>Zalo AI Challenge 2018: Music Genre Classification</sub> | <sub>[zalo2018-music](https://challenge.zalo.ai/challenges)</sub> | |
-| <sub>**Aug. 08, 2018**</sub> | <sub>**Sep. 05, 2018**</sub> | <sub>Zalo AI Challenge 2018: Voice Gender/Accent Classification</sub> | <sub>[zalo2018-voice](https://challenge.zalo.ai/challenges)</sub> | |
 | <sub>**Jun. 18, 2018**</sub> | <sub>**Oct. 21, 2018**</sub> | <sub>Albayzin 2018 Search on Speech Challenge (SoSC)</sub> | <sub>[sosc2018](http://iberspeech2018.talp.cat/index.php/albayzin-evaluation-challenges/search-on-speech-evaluation/)</sub> | |
 | <sub>**Jun. 18, 2018**</sub> | <sub>**Oct. 21, 2018**</sub> | <sub>IberSPEECH-RTVE 2018 Speech to Text Transcription Challenge (S2TC)</sub> | <sub>[s2tc2018](http://catedrartve.unizar.es/reto2018/evaluations2018.html#S2T)</sub> | |
 | <sub>**Aug. 08, 2018**</sub> | <sub>**Oct. 30, 2018**</sub> | <sub>Making Sense of Sounds Data Challenge</sub> | <sub>[cvssp2018-sounds](http://cvssp.org/projects/making_sense_of_sounds/site/challenge/)</sub> | |
@@ -113,6 +113,8 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Mar. 30, 2018</sub> | <sub>~~Jul. 31, 2018~~</sub> | <sub>DCASE2018: Event Detection in Domestic Env.</sub> | <sub>[dcase2018-task4](http://dcase.community/challenge2018/task-large-scale-weakly-labeled-semi-supervised-sound-event-detection)</sub> | <a href="https://github.com/DCASE-REPO/dcase2018_baseline/tree/master/task4/">:scroll:</a> |
 | <sub>Mar. 30, 2018</sub> | <sub>~~Jul. 31, 2018~~</sub> | <sub>DCASE2018: Monitoring domestic activities</sub> | <sub>[dcase2018-task5](http://dcase.community/challenge2018/task-monitoring-domestic-activities)</sub> | <a href="https://github.com/DCASE-REPO/dcase2018_baseline/tree/master/task5">:scroll:</a> |
 | <sub>Mar. 05, 2018</sub> | <sub>~~Aug. 03, 2018~~</sub> | <sub>The 5th CHiME Speech Separation and Recognition Challenge</sub> | <sub>[chime5](http://spandh.dcs.shef.ac.uk/chime_challenge/)</sub> | <a href="https://github.com/kaldi-asr/kaldi/tree/master/egs/chime5">:scroll:</a> |
+| <sub>Aug. 08, 2018</sub> | <sub>~~Sep. 05, 2018~~</sub> | <sub>Zalo AI Challenge 2018: Music Genre Classification</sub> | <sub>[zalo2018-music](https://challenge.zalo.ai/challenges)</sub> | |
+| <sub>Aug. 08, 2018</sub> | <sub>~~Sep. 05, 2018~~</sub> | <sub>Zalo AI Challenge 2018: Voice Gender/Accent Classification</sub> | <sub>[zalo2018-voice](https://challenge.zalo.ai/challenges)</sub> | |
 
 ---
 ---
