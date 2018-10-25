@@ -70,15 +70,15 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Jun., 2018**</sub> | <sub>**Oct. 10, 2018**</sub> | <sub>IEEE ICDM 2018: Global AI Challenge on Meteorology</sub> | <sub>[ieeemeteo2018](https://tianchi.aliyun.com/competition/introduction.htm?&raceId=231662)</sub> | |
 | <sub>**Set. 7, 2018**</sub> | <sub>**Nov. 5, 2018**</sub> | <sub>NIPS 2018: TrackML Particle Tracking Challenge</sub> | <sub>[trackml2018](https://competitions.codalab.org/competitions/20112)</sub> | |
 | <sub>**Jul. 30, 2018**</sub> | <sub>**Nov. 6, 2018**</sub> | <sub>NIPS 2018: AutoML for Lifelong Machine Learning</sub> | <sub>[automl2018](https://www.4paradigm.com/competition/nips2018)</sub> | |
 | <sub>**Oct. 29, 2018**</sub> | <sub>**Nov. 12, 2018**</sub> | <sub>NIPS 2018: Inclusive Images Challenge </sub> | <sub>[inclusive]()</sub> | |
 | <sub>**Jun. 1, 2018**</sub> | <sub>**Nov. 26, 2018**</sub> | <sub>NIPS 2018: Pommerman </sub> | <sub>[pommerman](https://www.pommerman.com/)</sub> | <a href="https://github.com/MultiAgentLearning/playground">:scroll:</a> |
 | <sub>**Aug. 7, 2018**</sub> | <sub>**Nov. 30, 2018**</sub> | <sub>NIPS 2018: The AI Driving Olympics (AI-DO)</sub> | <sub>[ai-do](https://www.duckietown.org/research/AI-Driving-Olympics)</sub> | <a href="http://docs.duckietown.org/AIDO/out/ml_primer.html">:scroll:</a> |
+| <sub>**Oct. 17, 2018**</sub> | <sub>**May. 31, 2019**</sub> | <sub>AIGym Airbus: Anomaly Detection in Aerospace Time Series</sub> | <sub>[airbus-anomaly](https://aigym-v.airbus.com/contest/5bc834b8ba7add0027f3ac5a)</sub> | |
 | <sub>Jul., 10 2018</sub> | <sub>~~Aug. 19, 2018~~</sub> | <sub>AWS DeepLens Challenge - Inclusivity</sub> | <sub>[aws-deeplens](https://aws.amazon.com/deeplens/challenge/)</sub> | |
 | <sub>Jun., 2018</sub> | <sub>~~Sep. 16, 2018~~</sub> | <sub>NIPS 2018: AI for Prosthetics Challenge</sub> | <sub>[prosthetics2018](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge)</sub> | <a href="https://github.com/stanfordnmbl/osim-rl">:scroll:</a> |
-
+| <sub>Jun., 2018</sub> | <sub>~~Oct. 10, 2018~~</sub> | <sub>IEEE ICDM 2018: Global AI Challenge on Meteorology</sub> | <sub>[ieeemeteo2018](https://tianchi.aliyun.com/competition/introduction.htm?&raceId=231662)</sub> | |
 
 ---
 ## Speaker
@@ -86,19 +86,19 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Apr., 2018**</sub> | <sub>**Oct. 10, 2018**</sub>  | <sub>NIST 2018 Speaker Recognition Evaluation (SRE18), co-located IEEE SLT2018 </sub> | <sub>[sre2018](https://www.nist.gov/itl/iad/mig/nist-2018-speaker-recognition-evaluation)</sub> | <a href="https://www.nist.gov/file/453891">:scroll:</a>  |
-| <sub>**Jun. 18, 2018**</sub> | <sub>**Oct. 21, 2018**</sub> | <sub>IberSPEECH-RTVE 2018 Speaker Diarization Challenge (SDC)</sub> | <sub>[sdc2018](http://catedrartve.unizar.es/reto2018/evaluations2018.html#Diar)</sub> | |
-| <sub>**Jun. 18, 2018**</sub> | <sub>**Oct. 21, 2018**</sub> | <sub>IberSPEECH-RTVE 2018 Multimodal Diarization Challenge (MDC)</sub> | <sub>[mdc2018](http://catedrartve.unizar.es/reto2018/evaluations2018.html#Multi)</sub> | |
 | <sub>Jan. 30, 2018</sub> | <sub>~~Mar. 23, 2018~~</sub> | <sub>The First DIHARD Speech Diarization Challenge</sub> | <sub>[dihard](https://coml.lscp.ens.fr/dihard/index.html)</sub> | <a href="https://github.com/nryant/dscore">:scroll:</a> |
 | <sub>May. 10, 2018</sub> | <sub>~~Sep. 17, 2018~~</sub> | <sub>The 1st Multi-target speaker detection and identification Challenge Evaluation</sub> | <sub>[mce2018](http://mce2018.org/)</sub> | <a href="https://github.com/swshon/multi-speakerID">:scroll:</a> |
+| <sub>Apr., 2018</sub> | <sub>~~Oct. 10, 2018~~</sub>  | <sub>NIST 2018 Speaker Recognition Evaluation (SRE18), co-located IEEE SLT2018 </sub> | <sub>[sre2018](https://www.nist.gov/itl/iad/mig/nist-2018-speaker-recognition-evaluation)</sub> | <a href="https://www.nist.gov/file/453891">:scroll:</a>  |
+| <sub>Jun. 18, 2018</sub> | <sub>~~Oct. 21, 2018~~</sub> | <sub>IberSPEECH-RTVE 2018 Speaker Diarization Challenge (SDC)</sub> | <sub>[sdc2018](http://catedrartve.unizar.es/reto2018/evaluations2018.html#Diar)</sub> | |
+| <sub>Jun. 18, 2018</sub> | <sub>~~Oct. 21, 2018~~</sub> | <sub>IberSPEECH-RTVE 2018 Multimodal Diarization Challenge (MDC)</sub> | <sub>[mdc2018](http://catedrartve.unizar.es/reto2018/evaluations2018.html#Multi)</sub> | |
+
+
 ---
 ## Speech 
 ###### Recognition, Synthesis, Signal-Processing, ...
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Jun. 18, 2018**</sub> | <sub>**Oct. 21, 2018**</sub> | <sub>Albayzin 2018 Search on Speech Challenge (SoSC)</sub> | <sub>[sosc2018](http://iberspeech2018.talp.cat/index.php/albayzin-evaluation-challenges/search-on-speech-evaluation/)</sub> | |
-| <sub>**Jun. 18, 2018**</sub> | <sub>**Oct. 21, 2018**</sub> | <sub>IberSPEECH-RTVE 2018 Speech to Text Transcription Challenge (S2TC)</sub> | <sub>[s2tc2018](http://catedrartve.unizar.es/reto2018/evaluations2018.html#S2T)</sub> | |
 | <sub>**Aug. 08, 2018**</sub> | <sub>**Oct. 30, 2018**</sub> | <sub>Making Sense of Sounds Data Challenge</sub> | <sub>[cvssp2018-sounds](http://cvssp.org/projects/making_sense_of_sounds/site/challenge/)</sub> | |
 | <sub>**Nov. 20, 2018**</sub> | <sub>**Abr. 27, 2019**</sub> | <sub>NIST 2019 Speech Analytic Technologies Evaluation (OpenSAT 2019)</sub> | <sub>[opensat2019](https://www.nist.gov/itl/iad/mig/opensat)</sub> |  |
 | <sub>Jan. 02, 2018</sub> | <sub>~~Mar. 09, 2018~~</sub> | <sub>Low Resource Speech Recognition Challenge for Indian Languages</sub> | <sub>[interspeech2018-ss6](https://www.microsoft.com/en-us/research/event/interspeech-2018-special-session-low-resource-speech-recognition-challenge-indian-languages/)</sub> | <a href="https://onedrive.live.com/view.aspx?resid=85FEAFEE8D8062F3!26772&ithint=file%2cdocx&app=Word&authkey=!ANcPez-8R78MOv4">:scroll:</a> |
@@ -115,7 +115,8 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Mar. 05, 2018</sub> | <sub>~~Aug. 03, 2018~~</sub> | <sub>The 5th CHiME Speech Separation and Recognition Challenge</sub> | <sub>[chime5](http://spandh.dcs.shef.ac.uk/chime_challenge/)</sub> | <a href="https://github.com/kaldi-asr/kaldi/tree/master/egs/chime5">:scroll:</a> |
 | <sub>Aug. 08, 2018</sub> | <sub>~~Sep. 05, 2018~~</sub> | <sub>Zalo AI Challenge 2018: Music Genre Classification</sub> | <sub>[zalo2018-music](https://challenge.zalo.ai/challenges)</sub> | |
 | <sub>Aug. 08, 2018</sub> | <sub>~~Sep. 05, 2018~~</sub> | <sub>Zalo AI Challenge 2018: Voice Gender/Accent Classification</sub> | <sub>[zalo2018-voice](https://challenge.zalo.ai/challenges)</sub> | |
-
+| <sub>Jun. 18, 2018</sub> | <sub>~~Oct. 21, 2018~~</sub> | <sub>Albayzin 2018 Search on Speech Challenge (SoSC)</sub> | <sub>[sosc2018](http://iberspeech2018.talp.cat/index.php/albayzin-evaluation-challenges/search-on-speech-evaluation/)</sub> | |
+| <sub>Jun. 18, 2018</sub> | <sub>~~Oct. 21, 2018~~</sub> | <sub>IberSPEECH-RTVE 2018 Speech to Text Transcription Challenge (S2TC)</sub> | <sub>[s2tc2018](http://catedrartve.unizar.es/reto2018/evaluations2018.html#S2T)</sub> | |
 ---
 ---
 ## Useful deadlines
