@@ -10,6 +10,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
+| <sub>**Aug. 29, 2018**</sub> | <sub>**Nov. 16, 2019**</sub> | <sub>SUMO: The Scene Understanding and Modeling Challenge</sub> | <sub>[sumo](https://sumochallenge.org/)</sub> | <a href="https://github.com/facebookresearch/sumo-challenge">:scroll:</a> |
 | <sub>**Sep. 15, 2018**</sub> | <sub>**Jan. 10, 2019**</sub> | <sub>FG 2019: Recognizing Families In the Wild - Kinship Verification (Track I)</sub> | <sub>[fg2019-track1](https://competitions.codalab.org/competitions/20180)</sub> | <a href="https://github.com/visionjo/FIW_KRT">:scroll:</a> |
 | <sub>**Sep. 15, 2018**</sub> | <sub>**Jan. 10, 2019**</sub> | <sub>FG 2019: Recognizing Families In the Wild - Family Classification (Track II)</sub> | <sub>[fg2019-track2](https://competitions.codalab.org/competitions/20196)</sub> | <a href="https://github.com/visionjo/FIW_KRT">:scroll:</a> |
 | <sub>**May, 2018**</sub> | <sub>**2018**</sub> | <sub>COCO2018: Stuff Segmentation Task</sub> | <sub>[coco2018-stuff](http://cocodataset.org/#stuff-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
