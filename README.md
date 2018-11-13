@@ -59,6 +59,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
+| <sub>**Oct., 2018**</sub> | <sub>**Dec. 10, 2018**</sub> | <sub>Qanta Project: Human-Computer Question Answering Competition</sub> | <sub>[qanta](https://sites.google.com/view/qanta/dec-15-2018)</sub> |<a href="https://github.com/Pinafore/qanta-codalab">:scroll:</a>  |
 | <sub>**Ago. 21, 2018**</sub> | <sub>**Jan. 10, 2019**</sub> | <sub>SemEval19 Task 3: EmoContext</sub> | <sub>[emocontext](https://www.humanizing-ai.com/emocontext.html)</sub> |<a href="https://github.com/puneetbhakar/Emocontext">:scroll:</a>  |
 | <sub>**Oct. 1, 2018**</sub> | <sub>**Feb. 25, 2019**</sub> | <sub>IWCS 2019: DRS Parsing</sub> | <sub>[iwcs19-drs](https://competitions.codalab.org/competitions/20220)</sub> |  |
 | <sub>Jul. 17, 2017</sub> | <sub>**Never**</sub> | <sub>TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension</sub> | <sub>[triviaqa](http://nlp.cs.washington.edu/triviaqa/)</sub> |<a href="https://github.com/mandarjoshi90/triviaqa">:scroll:</a> |
