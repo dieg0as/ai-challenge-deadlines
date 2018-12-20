@@ -10,7 +10,6 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Aug. 29, 2018**</sub> | <sub>**Nov. 16, 2019**</sub> | <sub>SUMO: The Scene Understanding and Modeling Challenge</sub> | <sub>[sumo](https://sumochallenge.org/)</sub> | <a href="https://github.com/facebookresearch/sumo-challenge">:scroll:</a> |
 | <sub>**Sep. 15, 2018**</sub> | <sub>**Jan. 10, 2019**</sub> | <sub>FG 2019: Recognizing Families In the Wild - Kinship Verification (Track I)</sub> | <sub>[fg2019-track1](https://competitions.codalab.org/competitions/20180)</sub> | <a href="https://github.com/visionjo/FIW_KRT">:scroll:</a> |
 | <sub>**Sep. 15, 2018**</sub> | <sub>**Jan. 10, 2019**</sub> | <sub>FG 2019: Recognizing Families In the Wild - Family Classification (Track II)</sub> | <sub>[fg2019-track2](https://competitions.codalab.org/competitions/20196)</sub> | <a href="https://github.com/visionjo/FIW_KRT">:scroll:</a> |
 | <sub>**May, 2018**</sub> | <sub>**2018**</sub> | <sub>COCO2018: Stuff Segmentation Task</sub> | <sub>[coco2018-stuff](http://cocodataset.org/#stuff-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
@@ -52,6 +51,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Jun. 25, 2018</sub> | <sub>~~Nov. 1, 2018~~</sub> | <sub>NIPS 2018: Adversarial Vision Challenge (Robust Model Track)</sub> | <sub>[adversarial-robust](https://www.crowdai.org/organizers/bethgelab/challenges/nips-2018-adversarial-vision-challenge-robust-model-track)</sub> | |
 | <sub>Jun. 25, 2018</sub> | <sub>~~Nov. 1, 2018~~</sub> | <sub>NIPS 2018: Adversarial Vision Challenge (Untargeted Attack Track)</sub> | <sub>[adversarial-untargeted](https://www.crowdai.org/organizers/bethgelab/challenges/nips-2018-adversarial-vision-challenge-untargeted-attack-track)</sub> | |
 | <sub>Jun. 25, 2018</sub> | <sub>~~Nov. 1, 2018~~</sub> | <sub>NIPS 2018: Adversarial Vision Challenge (Targeted Attack Track)</sub> | <sub>[adversarial-target](https://www.crowdai.org/organizers/bethgelab/challenges/nips-2018-adversarial-vision-challenge-targeted-attack-track/)</sub> | |
+| <sub>Aug. 29, 2018</sub> | <sub>~~Nov. 16, 2019~~</sub> | <sub>SUMO: The Scene Understanding and Modeling Challenge</sub> | <sub>[sumo](https://sumochallenge.org/)</sub> | <a href="https://github.com/facebookresearch/sumo-challenge">:scroll:</a> |
 
 ---
 ## Language 
@@ -59,7 +59,6 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Oct., 2018**</sub> | <sub>**Dec. 10, 2018**</sub> | <sub>Qanta Project: Human-Computer Question Answering Competition</sub> | <sub>[qanta](https://sites.google.com/view/qanta/dec-15-2018)</sub> |<a href="https://github.com/Pinafore/qanta-codalab">:scroll:</a>  |
 | <sub>**Ago. 21, 2018**</sub> | <sub>**Jan. 10, 2019**</sub> | <sub>SemEval19 Task 3: EmoContext</sub> | <sub>[emocontext](https://www.humanizing-ai.com/emocontext.html)</sub> |<a href="https://github.com/puneetbhakar/Emocontext">:scroll:</a>  |
 | <sub>**Oct. 1, 2018**</sub> | <sub>**Feb. 25, 2019**</sub> | <sub>IWCS 2019: DRS Parsing</sub> | <sub>[iwcs19-drs](https://competitions.codalab.org/competitions/20220)</sub> |  |
 | <sub>Jul. 17, 2017</sub> | <sub>**Never**</sub> | <sub>TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension</sub> | <sub>[triviaqa](http://nlp.cs.washington.edu/triviaqa/)</sub> |<a href="https://github.com/mandarjoshi90/triviaqa">:scroll:</a> |
@@ -68,15 +67,12 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>May. 22, 2017</sub> | <sub>~~Oct. 10, 2017~~</sub> | <sub>DSTC6: Dialogue Breakdown Detection</sub> | <sub>[dstc6-break](https://dbd-challenge.github.io/dbdc3/)</sub> |<a href="https://github.com/dbd-challenge/dbdc3/">:scroll:</a>  |
 | <sub>Oct., 2017</sub> | <sub>~~Fev. 14, 2017~~</sub> | <sub>The Spoken CALL Shared Task - Second Edition</sub> | <sub>[spokencall](https://regulus.unige.ch/spokencallsharedtask_2ndedition/)</sub> |<a href="https://regulus.unige.ch/spokencallsharedtask/Downloads/SLaTE_2017_paper_37.pdf">:scroll:</a> |
 | <sub>Apr. 21, 2018</sub> | <sub>~~Sep. 30, 2018~~</sub> | <sub>The Conversational Intelligence Challenge 2 (ConvAI2)</sub> | <sub>[convai2](http://convai.io/)</sub> |<a href="https://github.com/DeepPavlov/convai">:scroll:</a>  |
-
+| <sub>Oct., 2018</sub> | <sub>~~Dec. 10, 2018~~</sub> | <sub>Qanta Project: Human-Computer Question Answering Competition</sub> | <sub>[qanta](https://sites.google.com/view/qanta/dec-15-2018)</sub> |<a href="https://github.com/Pinafore/qanta-codalab">:scroll:</a>  |
 ---
 ## Machine Learning
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Oct. 29, 2018**</sub> | <sub>**Nov. 12, 2018**</sub> | <sub>NIPS 2018: Inclusive Images Challenge </sub> | <sub>[inclusive]()</sub> | |
-| <sub>**Jun. 1, 2018**</sub> | <sub>**Nov. 26, 2018**</sub> | <sub>NIPS 2018: Pommerman </sub> | <sub>[pommerman](https://www.pommerman.com/)</sub> | <a href="https://github.com/MultiAgentLearning/playground">:scroll:</a> |
-| <sub>**Aug. 7, 2018**</sub> | <sub>**Nov. 30, 2018**</sub> | <sub>NIPS 2018: The AI Driving Olympics (AI-DO)</sub> | <sub>[ai-do](https://www.duckietown.org/research/AI-Driving-Olympics)</sub> | <a href="http://docs.duckietown.org/AIDO/out/ml_primer.html">:scroll:</a> |
 | <sub>**Oct. 1, 2018**</sub> | <sub>**Dec., 2018**</sub> | <sub>IDG-DREAM Drug Kinase Binding Prediction Challenge</sub> | <sub>[idg-dream](https://www.synapse.org/#!Synapse:syn15667962/wiki/583305)</sub> | <a href="https://github.com/Sage-Bionetworks/IDG-DREAM-Drug-Kinase-Challenge/tree/master/python/scoring_harness">:scroll:</a> |
 | <sub>**Oct., 2018**</sub> | <sub>**Jan. 7, 2019**</sub> | <sub>CEC2019: Competition on Evolutionary Multi-task Optimization</sub> | <sub>[cec2019-mto](http://www.bdsc.site/websites/MTO_competiton_2019/MTO_Competition_CEC_2019.html)</sub> | <a href="http://www.cil.ntu.edu.sg/mfo/download.html">:scroll:</a> |
 | <sub>**Oct., 2018**</sub> | <sub>**Jan. 7, 2019**</sub> | <sub>CEC2019: Online Data-Driven Multi-Objective Optimization Competition</sub> | <sub>[cec2019-ddmop](https://handingwang.github.io/DDMOP/)</sub> | <a href="https://github.com/HandingWang/DDMOP">:scroll:</a> |
@@ -87,6 +83,9 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Jun., 2018</sub> | <sub>~~Oct. 10, 2018~~</sub> | <sub>IEEE ICDM 2018: Global AI Challenge on Meteorology</sub> | <sub>[ieeemeteo2018](https://tianchi.aliyun.com/competition/introduction.htm?&raceId=231662)</sub> | |
 | <sub>Set. 7, 2018</sub> | <sub>~~Nov. 5, 2018~~</sub> | <sub>NIPS 2018: TrackML Particle Tracking Challenge</sub> | <sub>[trackml2018](https://competitions.codalab.org/competitions/20112)</sub> | |
 | <sub>Jul. 30, 2018</sub> | <sub>~~Nov. 6, 2018~~</sub> | <sub>NIPS 2018: AutoML for Lifelong Machine Learning</sub> | <sub>[automl2018](https://www.4paradigm.com/competition/nips2018)</sub> | |
+| <sub>Oct. 29, 2018</sub> | <sub>~~Nov. 12, 2018~~</sub> | <sub>NIPS 2018: Inclusive Images Challenge </sub> | <sub>[inclusive]()</sub> | |
+| <sub>Jun. 1, 2018</sub> | <sub>~~Nov. 26, 2018~~</sub> | <sub>NIPS 2018: Pommerman </sub> | <sub>[pommerman](https://www.pommerman.com/)</sub> | <a href="https://github.com/MultiAgentLearning/playground">:scroll:</a> |
+| <sub>Aug. 7, 2018</sub> | <sub>~~Nov. 30, 2018~~</sub> | <sub>NIPS 2018: The AI Driving Olympics (AI-DO)</sub> | <sub>[ai-do](https://www.duckietown.org/research/AI-Driving-Olympics)</sub> | <a href="http://docs.duckietown.org/AIDO/out/ml_primer.html">:scroll:</a> |
 
 ---
 ## Speaker
