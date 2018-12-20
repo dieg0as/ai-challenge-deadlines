@@ -61,6 +61,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | :--- | :--- | :--- | :--- | :--- |
 | <sub>**Ago. 21, 2018**</sub> | <sub>**Jan. 10, 2019**</sub> | <sub>SemEval19 Task 3: EmoContext</sub> | <sub>[emocontext](https://www.humanizing-ai.com/emocontext.html)</sub> |<a href="https://github.com/puneetbhakar/Emocontext">:scroll:</a>  |
 | <sub>**Oct. 1, 2018**</sub> | <sub>**Feb. 25, 2019**</sub> | <sub>IWCS 2019: DRS Parsing</sub> | <sub>[iwcs19-drs](https://competitions.codalab.org/competitions/20220)</sub> |  |
+| <sub>**Nov. 5, 2018**</sub> | <sub>**May. 1, 2019**</sub> | <sub>TL;DR: The abstractive summarization challenge</sub> | <sub>[tldr](https://tldr.webis.de/)</sub> |<a href="https://tldr.webis.de/tldr-web/soa.html">:scroll:</a>  |
 | <sub>Jul. 17, 2017</sub> | <sub>**Never**</sub> | <sub>TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension</sub> | <sub>[triviaqa](http://nlp.cs.washington.edu/triviaqa/)</sub> |<a href="https://github.com/mandarjoshi90/triviaqa">:scroll:</a> |
 | <sub>May. 22, 2017</sub> | <sub>~~Oct. 10, 2018~~</sub> | <sub>DSTC6: End-to-End Goal Oriented Dialog Learning</sub> | <sub>[dstc6-goal](http://workshop.colips.org/dstc6/index.html)</sub> |<a href="https://github.com/perezjln/dstc6-goal-oriented-end-to-end">:scroll:</a> |
 | <sub>May. 22, 2017</sub> | <sub>~~Oct. 10, 2017~~</sub> | <sub>DSTC6: End-to-End Conversation Modeling</sub> | <sub>[dstc6-conv](http://workshop.colips.org/dstc6/index.html)</sub> |<a href="https://github.com/dialogtekgeek/DSTC6-End-to-End-Conversation-Modeling">:scroll:</a>  |
@@ -68,6 +69,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Oct., 2017</sub> | <sub>~~Fev. 14, 2017~~</sub> | <sub>The Spoken CALL Shared Task - Second Edition</sub> | <sub>[spokencall](https://regulus.unige.ch/spokencallsharedtask_2ndedition/)</sub> |<a href="https://regulus.unige.ch/spokencallsharedtask/Downloads/SLaTE_2017_paper_37.pdf">:scroll:</a> |
 | <sub>Apr. 21, 2018</sub> | <sub>~~Sep. 30, 2018~~</sub> | <sub>The Conversational Intelligence Challenge 2 (ConvAI2)</sub> | <sub>[convai2](http://convai.io/)</sub> |<a href="https://github.com/DeepPavlov/convai">:scroll:</a>  |
 | <sub>Oct., 2018</sub> | <sub>~~Dec. 10, 2018~~</sub> | <sub>Qanta Project: Human-Computer Question Answering Competition</sub> | <sub>[qanta](https://sites.google.com/view/qanta/dec-15-2018)</sub> |<a href="https://github.com/Pinafore/qanta-codalab">:scroll:</a>  |
+
 ---
 ## Machine Learning
 
