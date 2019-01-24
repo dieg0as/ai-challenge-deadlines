@@ -10,8 +10,6 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Sep. 15, 2018**</sub> | <sub>**Jan. 10, 2019**</sub> | <sub>FG 2019: Recognizing Families In the Wild - Kinship Verification (Track I)</sub> | <sub>[fg2019-track1](https://competitions.codalab.org/competitions/20180)</sub> | <a href="https://github.com/visionjo/FIW_KRT">:scroll:</a> |
-| <sub>**Sep. 15, 2018**</sub> | <sub>**Jan. 10, 2019**</sub> | <sub>FG 2019: Recognizing Families In the Wild - Family Classification (Track II)</sub> | <sub>[fg2019-track2](https://competitions.codalab.org/competitions/20196)</sub> | <a href="https://github.com/visionjo/FIW_KRT">:scroll:</a> |
 | <sub>**May, 2018**</sub> | <sub>**2018**</sub> | <sub>COCO2018: Stuff Segmentation Task</sub> | <sub>[coco2018-stuff](http://cocodataset.org/#stuff-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Image Super-Resolution (CVPR 2018)</sub> | <sub>[ntire2018-super](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Image Dehazing (CVPR 2018)</sub> | <sub>[ntire2018-dehazing](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
@@ -52,6 +50,9 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Jun. 25, 2018</sub> | <sub>~~Nov. 1, 2018~~</sub> | <sub>NIPS 2018: Adversarial Vision Challenge (Untargeted Attack Track)</sub> | <sub>[adversarial-untargeted](https://www.crowdai.org/organizers/bethgelab/challenges/nips-2018-adversarial-vision-challenge-untargeted-attack-track)</sub> | |
 | <sub>Jun. 25, 2018</sub> | <sub>~~Nov. 1, 2018~~</sub> | <sub>NIPS 2018: Adversarial Vision Challenge (Targeted Attack Track)</sub> | <sub>[adversarial-target](https://www.crowdai.org/organizers/bethgelab/challenges/nips-2018-adversarial-vision-challenge-targeted-attack-track/)</sub> | |
 | <sub>Aug. 29, 2018</sub> | <sub>~~Nov. 16, 2019~~</sub> | <sub>SUMO: The Scene Understanding and Modeling Challenge</sub> | <sub>[sumo](https://sumochallenge.org/)</sub> | <a href="https://github.com/facebookresearch/sumo-challenge">:scroll:</a> |
+| <sub>Sep. 15, 2018</sub> | <sub>~~Jan. 10, 2019~~</sub> | <sub>FG 2019: Recognizing Families In the Wild - Kinship Verification (Track I)</sub> | <sub>[fg2019-track1](https://competitions.codalab.org/competitions/20180)</sub> | <a href="https://github.com/visionjo/FIW_KRT">:scroll:</a> |
+| <sub>Sep. 15, 2018</sub> | <sub>~~Jan. 10, 2019~~</sub> | <sub>FG 2019: Recognizing Families In the Wild - Family Classification (Track II)</sub> | <sub>[fg2019-track2](https://competitions.codalab.org/competitions/20196)</sub> | <a href="https://github.com/visionjo/FIW_KRT">:scroll:</a> |
+
 
 ---
 ## Language 
@@ -59,7 +60,6 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Ago. 21, 2018**</sub> | <sub>**Jan. 10, 2019**</sub> | <sub>SemEval19 Task 3: EmoContext</sub> | <sub>[emocontext](https://www.humanizing-ai.com/emocontext.html)</sub> |<a href="https://github.com/puneetbhakar/Emocontext">:scroll:</a>  |
 | <sub>**Oct. 1, 2018**</sub> | <sub>**Feb. 25, 2019**</sub> | <sub>IWCS 2019: DRS Parsing</sub> | <sub>[iwcs19-drs](https://competitions.codalab.org/competitions/20220)</sub> |  |
 | <sub>**Nov. 5, 2018**</sub> | <sub>**May. 1, 2019**</sub> | <sub>TL;DR: The abstractive summarization challenge</sub> | <sub>[tldr](https://tldr.webis.de/)</sub> |<a href="https://tldr.webis.de/tldr-web/soa.html">:scroll:</a>  |
 | <sub>Jul. 17, 2017</sub> | <sub>**Never**</sub> | <sub>TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension</sub> | <sub>[triviaqa](http://nlp.cs.washington.edu/triviaqa/)</sub> |<a href="https://github.com/mandarjoshi90/triviaqa">:scroll:</a> |
@@ -69,15 +69,14 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Oct., 2017</sub> | <sub>~~Fev. 14, 2017~~</sub> | <sub>The Spoken CALL Shared Task - Second Edition</sub> | <sub>[spokencall](https://regulus.unige.ch/spokencallsharedtask_2ndedition/)</sub> |<a href="https://regulus.unige.ch/spokencallsharedtask/Downloads/SLaTE_2017_paper_37.pdf">:scroll:</a> |
 | <sub>Apr. 21, 2018</sub> | <sub>~~Sep. 30, 2018~~</sub> | <sub>The Conversational Intelligence Challenge 2 (ConvAI2)</sub> | <sub>[convai2](http://convai.io/)</sub> |<a href="https://github.com/DeepPavlov/convai">:scroll:</a>  |
 | <sub>Oct., 2018</sub> | <sub>~~Dec. 10, 2018~~</sub> | <sub>Qanta Project: Human-Computer Question Answering Competition</sub> | <sub>[qanta](https://sites.google.com/view/qanta/dec-15-2018)</sub> |<a href="https://github.com/Pinafore/qanta-codalab">:scroll:</a>  |
+| <sub>Ago. 21, 2018</sub> | <sub>~~Jan. 10, 2019~~</sub> | <sub>SemEval19 Task 3: EmoContext</sub> | <sub>[emocontext](https://www.humanizing-ai.com/emocontext.html)</sub> |<a href="https://github.com/puneetbhakar/Emocontext">:scroll:</a>  |
+
 
 ---
 ## Machine Learning
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Oct. 1, 2018**</sub> | <sub>**Dec., 2018**</sub> | <sub>IDG-DREAM Drug Kinase Binding Prediction Challenge</sub> | <sub>[idg-dream](https://www.synapse.org/#!Synapse:syn15667962/wiki/583305)</sub> | <a href="https://github.com/Sage-Bionetworks/IDG-DREAM-Drug-Kinase-Challenge/tree/master/python/scoring_harness">:scroll:</a> |
-| <sub>**Oct., 2018**</sub> | <sub>**Jan. 7, 2019**</sub> | <sub>CEC2019: Competition on Evolutionary Multi-task Optimization</sub> | <sub>[cec2019-mto](http://www.bdsc.site/websites/MTO_competiton_2019/MTO_Competition_CEC_2019.html)</sub> | <a href="http://www.cil.ntu.edu.sg/mfo/download.html">:scroll:</a> |
-| <sub>**Oct., 2018**</sub> | <sub>**Jan. 7, 2019**</sub> | <sub>CEC2019: Online Data-Driven Multi-Objective Optimization Competition</sub> | <sub>[cec2019-ddmop](https://handingwang.github.io/DDMOP/)</sub> | <a href="https://github.com/HandingWang/DDMOP">:scroll:</a> |
 | <sub>**Oct. 17, 2018**</sub> | <sub>**May. 31, 2019**</sub> | <sub>AIGym Airbus: Anomaly Detection in Aerospace Time Series</sub> | <sub>[airbus-anomaly](https://aigym-v.airbus.com/contest/5bc834b8ba7add0027f3ac5a)</sub> | |
 | <sub>**Nov., 2018**</sub> | <sub>**Feb., 2019**</sub> | <sub>DRL2019: AlphaPilot–Lockheed Martin AI Drone Racing Innovation Challenge</sub> | <sub>[drone-alphapilot](https://www.herox.com/alphapilot)</sub> | |
 | <sub>Jul., 10 2018</sub> | <sub>~~Aug. 19, 2018~~</sub> | <sub>AWS DeepLens Challenge - Inclusivity</sub> | <sub>[aws-deeplens](https://aws.amazon.com/deeplens/challenge/)</sub> | |
@@ -88,6 +87,10 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Oct. 29, 2018</sub> | <sub>~~Nov. 12, 2018~~</sub> | <sub>NIPS 2018: Inclusive Images Challenge </sub> | <sub>[inclusive]()</sub> | |
 | <sub>Jun. 1, 2018</sub> | <sub>~~Nov. 26, 2018~~</sub> | <sub>NIPS 2018: Pommerman </sub> | <sub>[pommerman](https://www.pommerman.com/)</sub> | <a href="https://github.com/MultiAgentLearning/playground">:scroll:</a> |
 | <sub>Aug. 7, 2018</sub> | <sub>~~Nov. 30, 2018~~</sub> | <sub>NIPS 2018: The AI Driving Olympics (AI-DO)</sub> | <sub>[ai-do](https://www.duckietown.org/research/AI-Driving-Olympics)</sub> | <a href="http://docs.duckietown.org/AIDO/out/ml_primer.html">:scroll:</a> |
+| <sub>Oct. 1, 2018</sub> | <sub>~~Dec., 2018~~</sub> | <sub>IDG-DREAM Drug Kinase Binding Prediction Challenge</sub> | <sub>[idg-dream](https://www.synapse.org/#!Synapse:syn15667962/wiki/583305)</sub> | <a href="https://github.com/Sage-Bionetworks/IDG-DREAM-Drug-Kinase-Challenge/tree/master/python/scoring_harness">:scroll:</a> |
+| <sub>Oct., 2018</sub> | <sub>~~Jan. 7, 2019~~</sub> | <sub>CEC2019: Competition on Evolutionary Multi-task Optimization</sub> | <sub>[cec2019-mto](http://www.bdsc.site/websites/MTO_competiton_2019/MTO_Competition_CEC_2019.html)</sub> | <a href="http://www.cil.ntu.edu.sg/mfo/download.html">:scroll:</a> |
+| <sub>Oct., 2018</sub> | <sub>~~Jan. 7, 2019~~</sub> | <sub>CEC2019: Online Data-Driven Multi-Objective Optimization Competition</sub> | <sub>[cec2019-ddmop](https://handingwang.github.io/DDMOP/)</sub> | <a href="https://github.com/HandingWang/DDMOP">:scroll:</a> |
+
 
 ---
 ## Speaker
@@ -106,10 +109,10 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 ---
 ## Speech 
 ###### Recognition, Synthesis, Signal-Processing, ...
-
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Nov. 20, 2018**</sub> | <sub>**Abr. 27, 2019**</sub> | <sub>NIST 2019 Speech Analytic Technologies Evaluation (OpenSAT 2019)</sub> | <sub>[opensat2019](https://www.nist.gov/itl/iad/mig/opensat)</sub> |  |
+| <sub>Jan. 15, 2019</sub> | <sub>**Mar. 04, 2019**</sub> | <sub>Interspeech2019: The VOiCES from a Distance Challenge 2019</sub> | <sub>[interspeech2019-voices](https://voices18.github.io/)</sub> | <a href="https://github.com/Lab41/VOiCES-subset">:scroll:</a> |
+| <sub>Nov. 20, 2018</sub> | <sub>**Abr. 27, 2019**</sub> | <sub>NIST 2019 Speech Analytic Technologies Evaluation (OpenSAT 2019)</sub> | <sub>[opensat2019](https://www.nist.gov/itl/iad/mig/opensat)</sub> |  |
 | <sub>Jan. 02, 2018</sub> | <sub>~~Mar. 09, 2018~~</sub> | <sub>Low Resource Speech Recognition Challenge for Indian Languages</sub> | <sub>[interspeech2018-ss6](https://www.microsoft.com/en-us/research/event/interspeech-2018-special-session-low-resource-speech-recognition-challenge-indian-languages/)</sub> | <a href="https://onedrive.live.com/view.aspx?resid=85FEAFEE8D8062F3!26772&ithint=file%2cdocx&app=Word&authkey=!ANcPez-8R78MOv4">:scroll:</a> |
 | <sub>Feb. 01, 2018</sub> | <sub>~~May, 2018~~</sub> | <sub>Blizzard Challenge 2018</sub> | <sub>[blizzard2018](https://www.synsig.org/index.php/Blizzard_Challenge_2018)</sub> | <a href="https://www.synsig.org/index.php/Blizzard_Challenge_2016-8_Git_Repository">:scroll:</a> |
 | <sub>Oct. 15, 2017</sub> | <sub>~~Apr. 01, 2018~~</sub> | <sub>Signal Separation Evaluation Campaign (SiSEC 2018)</sub> | <sub>[sisec2018](https://sisec.inria.fr/)</sub> | <a href="https://github.com/sigsep/sigsep-mus-2018">:scroll:</a> |
