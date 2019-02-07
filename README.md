@@ -10,7 +10,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**May, 2018**</sub> | <sub>**2018**</sub> | <sub>COCO2018: Stuff Segmentation Task</sub> | <sub>[coco2018-stuff](http://cocodataset.org/#stuff-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
+| <sub>**Dec, 2018**</sub> | <sub>**Mar. 10, 2019**</sub> | <sub>MICCAI19: ABCD Neurocognitive prediction challenge</sub> | <sub>[abcd2019](https://sibis.sri.com/abcd-np-challenge/)</sub> |<a href="https://github.com/ABCD-STUDY/BPPCA_Neurocognition_Thompson_etal_2018">:scroll:</a> |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Image Super-Resolution (CVPR 2018)</sub> | <sub>[ntire2018-super](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Image Dehazing (CVPR 2018)</sub> | <sub>[ntire2018-dehazing](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Spectral Reconstruction from RGB Images (CVPR 2018)</sub> | <sub>[ntire2018-reconstruction](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
@@ -39,6 +39,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Mai., 2018</sub> | <sub>~~Jul. 25, 2018~~</sub> | <sub>PIRM2018: Challenge on Perceptual Super Resolution (ECCV 2018)</sub> | <sub>[pirm-sr2018](https://www.pirm2018.org/PIRM-SR.html)</sub> |  |
 | <sub>Mai., 2018</sub> | <sub>~~Jul. 25, 2018~~</sub> | <sub>PIRM2018: Challenge on Example-Based Spectral Image Super-Resolution (ECCV 2018)</sub> | <sub>[pirm-sr-hr2018](http://users.cecs.anu.edu.au/~arobkell/PIRM2018/www/PIRM-HS-SR.html)</sub> |  |
 | <sub>Jun. 04, 2018</sub> | <sub>~~Aug. 15, 2018~~</sub> | <sub>Visual Dialog Challenge 2018 (ECCV 2018)</sub> | <sub>[visual-dialog](https://visualdialog.org/challenge/2018)</sub> |<a href="https://github.com/batra-mlp-lab/visdial">:scroll:</a> |
+| <sub>May, 2018</sub> | <sub>~~2018~~</sub> | <sub>COCO2018: Stuff Segmentation Task</sub> | <sub>[coco2018-stuff](http://cocodataset.org/#stuff-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
 | <sub>May, 2018</sub> | <sub>~~Aug. 17, 2018~~</sub> | <sub>COCO2018: Object Detection Task (ECCV 2018)</sub> | <sub>[coco2018-detection](http://cocodataset.org/#detection-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
 | <sub>May, 2018</sub> | <sub>~~Aug. 17, 2018~~</sub> | <sub>COCO2018: Keypoint Detection Task (ECCV 2018)</sub> | <sub>[coco2018-keypoint](http://cocodataset.org/#keypoints-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
 | <sub>May, 2018</sub> | <sub>~~Aug. 17, 2018~~</sub> | <sub>COCO2018: Panoptic Segmentation Task (ECCV 2018)</sub> | <sub>[coco2018-panoptic](http://cocodataset.org/#panoptic-2018)</sub> |<a href="https://github.com/cocodataset/cocoapi">:scroll:</a> |
