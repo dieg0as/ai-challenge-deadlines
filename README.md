@@ -26,10 +26,12 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>**May, 2019**</sub> | <sub>**May. 24, 2019**</sub> | <sub>CVPR19: DAVIS Challenge Unsupervised</sub> | <sub>[davis19-ut](https://davischallenge.org/challenge2019/unsupervised.html)</sub> | |
 | <sub>**Apr, 2019**</sub> | <sub>**May. 31, 2019**</sub> | <sub>CVPR19: ActivityNet Tasks</sub> | <sub>[anet19](http://activity-net.org/challenges/2019/challenge.html)</sub> | |
 | <sub>**Apr, 2019**</sub> | <sub>**May. 31, 2019**</sub> | <sub>CVPR19: Guest Tasks</sub> | <sub>[guest19](http://activity-net.org/challenges/2019/challenge.html)</sub> | |
-| <sub>**Feb, 2019**</sub> | <sub>**Jun. 7, 2019**</sub> | <sub>CVPR19: EPIC-Kitchens Challenges</sub> | <sub>[epic-kit19](https://epic-kitchens.github.io/2018#challenges)</sub> | |
-| <sub>**Jan. , 2019**</sub> | <sub>**Jun. 10, 2018**</sub> | <sub>CVPR19: Human-centric Understanding - LOOK INTO PERSON </sub> | <sub>[lip19](http://sysu-hcp.net/lip/)</sub> |  |
 | <sub>**Jan, 2019**</sub> | <sub>**Jun. 1, 2019**</sub> | <sub>CVPR19: Detection In the Wild - Objects365</sub> | <sub>[obj365-19](https://www.objects365.org/workshop2019.html)</sub> |  |
 | <sub>**Jan, 2019**</sub> | <sub>**Jun. 1, 2019**</sub> | <sub>CVPR19: Detection In the Wild - CrowdHuman</sub> | <sub>[crowd19](http://www.crowdhuman.org/)</sub> |  |
+| <sub>**Feb, 2019**</sub> | <sub>**Jun. 7, 2019**</sub> | <sub>CVPR19: EPIC-Kitchens Challenges</sub> | <sub>[epic-kit19](https://epic-kitchens.github.io/2018#challenges)</sub> | |
+| <sub>**Jan. , 2019**</sub> | <sub>**Jun. 10, 2019**</sub> | <sub>CVPR19: Human-centric Understanding - LOOK INTO PERSON </sub> | <sub>[lip19](http://sysu-hcp.net/lip/)</sub> |  |
+| <sub>**Jan. , 2019**</sub> | <sub>**Jun. 10, 2019**</sub> | <sub>CVPR19: Low-Power Image Recognition Challenge - Online</sub> | <sub>[lpirc19-online](https://rebootingcomputing.ieee.org/lpirc/online-track)</sub> |  |
+| <sub>**Jan. , 2019**</sub> | <sub>**Jun. 10, 2019**</sub> | <sub>CVPR19: Low-Power Image Recognition Challenge - Onsite</sub> | <sub>[lpirc19-online](https://rebootingcomputing.ieee.org/lpirc/onsite-track)</sub> |  |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Image Super-Resolution (CVPR 2018)</sub> | <sub>[ntire2018-super](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Image Dehazing (CVPR 2018)</sub> | <sub>[ntire2018-dehazing](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Spectral Reconstruction from RGB Images (CVPR 2018)</sub> | <sub>[ntire2018-reconstruction](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
@@ -81,8 +83,10 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Oct. 1, 2018**</sub> | <sub>**Feb. 25, 2019**</sub> | <sub>IWCS 2019: DRS Parsing</sub> | <sub>[iwcs19-drs](https://competitions.codalab.org/competitions/20220)</sub> |  |
 | <sub>**Nov. 5, 2018**</sub> | <sub>**May. 1, 2019**</sub> | <sub>TL;DR: The abstractive summarization challenge</sub> | <sub>[tldr](https://tldr.webis.de/)</sub> |<a href="https://tldr.webis.de/tldr-web/soa.html">:scroll:</a>  |
+| <sub>**Apr. , 2019**</sub> | <sub>**Jun. 3, 2019**</sub> | <sub>Spoken CALL Shared Task - Third Edition</sub> | <sub>[scall19](https://regulus.unige.ch/spokencallsharedtask_3rdedition/)</sub> | |
+| <sub>**Jun., 2019**</sub> | <sub>**Set. , 2019**</sub> | <sub>DSTC8: Dialog System Technology Challenges </sub> | <sub>[dstc8](http://workshop.colips.org/dstc7/dstc8_proposals.html)</sub> ||
+| <sub>**Mar., 2019**</sub> | <sub>**Dec. , 2019**</sub> | <sub>2019 QANTA League Events</sub> | <sub>[quanta19](https://sites.google.com/view/qanta/2019-events)</sub> ||
 | <sub>Jul. 17, 2017</sub> | <sub>**Never**</sub> | <sub>TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension</sub> | <sub>[triviaqa](http://nlp.cs.washington.edu/triviaqa/)</sub> |<a href="https://github.com/mandarjoshi90/triviaqa">:scroll:</a> |
 | <sub>May. 22, 2017</sub> | <sub>~~Oct. 10, 2018~~</sub> | <sub>DSTC6: End-to-End Goal Oriented Dialog Learning</sub> | <sub>[dstc6-goal](http://workshop.colips.org/dstc6/index.html)</sub> |<a href="https://github.com/perezjln/dstc6-goal-oriented-end-to-end">:scroll:</a> |
 | <sub>May. 22, 2017</sub> | <sub>~~Oct. 10, 2017~~</sub> | <sub>DSTC6: End-to-End Conversation Modeling</sub> | <sub>[dstc6-conv](http://workshop.colips.org/dstc6/index.html)</sub> |<a href="https://github.com/dialogtekgeek/DSTC6-End-to-End-Conversation-Modeling">:scroll:</a>  |
@@ -91,7 +95,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Apr. 21, 2018</sub> | <sub>~~Sep. 30, 2018~~</sub> | <sub>The Conversational Intelligence Challenge 2 (ConvAI2)</sub> | <sub>[convai2](http://convai.io/)</sub> |<a href="https://github.com/DeepPavlov/convai">:scroll:</a>  |
 | <sub>Oct., 2018</sub> | <sub>~~Dec. 10, 2018~~</sub> | <sub>Qanta Project: Human-Computer Question Answering Competition</sub> | <sub>[qanta](https://sites.google.com/view/qanta/dec-15-2018)</sub> |<a href="https://github.com/Pinafore/qanta-codalab">:scroll:</a>  |
 | <sub>Ago. 21, 2018</sub> | <sub>~~Jan. 10, 2019~~</sub> | <sub>SemEval19 Task 3: EmoContext</sub> | <sub>[emocontext](https://www.humanizing-ai.com/emocontext.html)</sub> |<a href="https://github.com/puneetbhakar/Emocontext">:scroll:</a>  |
-
+| <sub>Oct. 1, 2018</sub> | <sub>~~Feb. 25, 2019~~</sub> | <sub>IWCS 2019: DRS Parsing</sub> | <sub>[iwcs19-drs](https://competitions.codalab.org/competitions/20220)</sub> |  |
 
 ---
 ## Machine Learning
@@ -99,7 +103,6 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
 | <sub>**Oct. 17, 2018**</sub> | <sub>**May. 31, 2019**</sub> | <sub>AIGym Airbus: Anomaly Detection in Aerospace Time Series</sub> | <sub>[airbus-anomaly](https://aigym-v.airbus.com/contest/5bc834b8ba7add0027f3ac5a)</sub> | |
-| <sub>**Nov., 2018**</sub> | <sub>**Feb., 2019**</sub> | <sub>DRL2019: AlphaPilot–Lockheed Martin AI Drone Racing Innovation Challenge</sub> | <sub>[drone-alphapilot](https://www.herox.com/alphapilot)</sub> | |
 | <sub>Jul., 10 2018</sub> | <sub>~~Aug. 19, 2018~~</sub> | <sub>AWS DeepLens Challenge - Inclusivity</sub> | <sub>[aws-deeplens](https://aws.amazon.com/deeplens/challenge/)</sub> | |
 | <sub>Jun., 2018</sub> | <sub>~~Sep. 16, 2018~~</sub> | <sub>NIPS 2018: AI for Prosthetics Challenge</sub> | <sub>[prosthetics2018](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge)</sub> | <a href="https://github.com/stanfordnmbl/osim-rl">:scroll:</a> |
 | <sub>Jun., 2018</sub> | <sub>~~Oct. 10, 2018~~</sub> | <sub>IEEE ICDM 2018: Global AI Challenge on Meteorology</sub> | <sub>[ieeemeteo2018](https://tianchi.aliyun.com/competition/introduction.htm?&raceId=231662)</sub> | |
@@ -111,7 +114,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Oct. 1, 2018</sub> | <sub>~~Dec., 2018~~</sub> | <sub>IDG-DREAM Drug Kinase Binding Prediction Challenge</sub> | <sub>[idg-dream](https://www.synapse.org/#!Synapse:syn15667962/wiki/583305)</sub> | <a href="https://github.com/Sage-Bionetworks/IDG-DREAM-Drug-Kinase-Challenge/tree/master/python/scoring_harness">:scroll:</a> |
 | <sub>Oct., 2018</sub> | <sub>~~Jan. 7, 2019~~</sub> | <sub>CEC2019: Competition on Evolutionary Multi-task Optimization</sub> | <sub>[cec2019-mto](http://www.bdsc.site/websites/MTO_competiton_2019/MTO_Competition_CEC_2019.html)</sub> | <a href="http://www.cil.ntu.edu.sg/mfo/download.html">:scroll:</a> |
 | <sub>Oct., 2018</sub> | <sub>~~Jan. 7, 2019~~</sub> | <sub>CEC2019: Online Data-Driven Multi-Objective Optimization Competition</sub> | <sub>[cec2019-ddmop](https://handingwang.github.io/DDMOP/)</sub> | <a href="https://github.com/HandingWang/DDMOP">:scroll:</a> |
-
+| <sub>Nov., 2018</sub> | <sub>~~Feb., 2019~~</sub> | <sub>DRL2019: AlphaPilot–Lockheed Martin AI Drone Racing Innovation Challenge</sub> | <sub>[drone-alphapilot](https://www.herox.com/alphapilot)</sub> | |
 
 ---
 ## Speaker
@@ -119,7 +122,8 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>Jan. 30, 2019</sub> | <sub>Jul. 1, 2019</sub> | <sub>The Second DIHARD Speech Diarization Challenge</sub> | <sub>[dihard19](https://coml.lscp.ens.fr/dihard/index.html)</sub> |  |
+| <sub>**Jan. 30, 2019**</sub> | <sub>**Jul. 1, 2019**</sub> | <sub>The Second DIHARD Speech Diarization Challenge</sub> | <sub>[dihard19](https://coml.lscp.ens.fr/dihard/index.html)</sub> |  |
+| <sub>**Mar., 2019**</sub> | <sub>**Dec., 2019**</sub> | <sub>NIST 2019 Speaker Recognition Evaluation (SRE19)</sub> | <sub>[sre19](https://www.nist.gov/itl/iad/mig/nist-2019-speaker-recognition-evaluation)</sub> |  |
 | <sub>Jan. 30, 2018</sub> | <sub>~~Mar. 23, 2018~~</sub> | <sub>The First DIHARD Speech Diarization Challenge</sub> | <sub>[dihard](https://coml.lscp.ens.fr/dihard/index.html)</sub> | <a href="https://github.com/nryant/dscore">:scroll:</a> |
 | <sub>May. 10, 2018</sub> | <sub>~~Sep. 17, 2018~~</sub> | <sub>The 1st Multi-target speaker detection and identification Challenge Evaluation</sub> | <sub>[mce2018](http://mce2018.org/)</sub> | <a href="https://github.com/swshon/multi-speakerID">:scroll:</a> |
 | <sub>Apr., 2018</sub> | <sub>~~Oct. 10, 2018~~</sub>  | <sub>NIST 2018 Speaker Recognition Evaluation (SRE18), co-located IEEE SLT2018 </sub> | <sub>[sre2018](https://www.nist.gov/itl/iad/mig/nist-2018-speaker-recognition-evaluation)</sub> | <a href="https://www.nist.gov/file/453891">:scroll:</a>  |
@@ -133,8 +137,9 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 ###### Recognition, Synthesis, Signal-Processing, ...
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>Jan. 15, 2019</sub> | <sub>**Mar. 04, 2019**</sub> | <sub>Interspeech2019: The VOiCES from a Distance Challenge 2019</sub> | <sub>[interspeech2019-voices](https://voices18.github.io/)</sub> | <a href="https://github.com/Lab41/VOiCES-subset">:scroll:</a> |
-| <sub>Nov. 20, 2018</sub> | <sub>**Abr. 27, 2019**</sub> | <sub>NIST 2019 Speech Analytic Technologies Evaluation (OpenSAT 2019)</sub> | <sub>[opensat2019](https://www.nist.gov/itl/iad/mig/opensat)</sub> |  |
+| <sub>**Feb., 2019**</sub> | <sub>**Mar., 2019**</sub> | <sub>ZeroSpeech 2019: TTS without T</sub> | <sub>[zero19](https://zerospeech.com/2019/)</sub> |  |
+| <sub>**Feb., 2019**</sub> | <sub>**Jun. 15, 2019**</sub> | <sub>Blizzard Challenge 2019</sub> | <sub>[zero19](https://www.synsig.org/index.php/Blizzard_Challenge_2019)</sub> |  |
+| <sub>**Mar., 2019**</sub> | <sub>**Sep., 2019**</sub> | <sub>NIST 2019 Speech Analytic Technologies Evaluation (OpenSAT 2019)</sub> | <sub>[opensat2019](https://www.nist.gov/itl/iad/mig/opensat)</sub> |  |
 | <sub>Jan. 02, 2018</sub> | <sub>~~Mar. 09, 2018~~</sub> | <sub>Low Resource Speech Recognition Challenge for Indian Languages</sub> | <sub>[interspeech2018-ss6](https://www.microsoft.com/en-us/research/event/interspeech-2018-special-session-low-resource-speech-recognition-challenge-indian-languages/)</sub> | <a href="https://onedrive.live.com/view.aspx?resid=85FEAFEE8D8062F3!26772&ithint=file%2cdocx&app=Word&authkey=!ANcPez-8R78MOv4">:scroll:</a> |
 | <sub>Feb. 01, 2018</sub> | <sub>~~May, 2018~~</sub> | <sub>Blizzard Challenge 2018</sub> | <sub>[blizzard2018](https://www.synsig.org/index.php/Blizzard_Challenge_2018)</sub> | <a href="https://www.synsig.org/index.php/Blizzard_Challenge_2016-8_Git_Repository">:scroll:</a> |
 | <sub>Oct. 15, 2017</sub> | <sub>~~Apr. 01, 2018~~</sub> | <sub>Signal Separation Evaluation Campaign (SiSEC 2018)</sub> | <sub>[sisec2018](https://sisec.inria.fr/)</sub> | <a href="https://github.com/sigsep/sigsep-mus-2018">:scroll:</a> |
@@ -152,6 +157,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Jun. 18, 2018</sub> | <sub>~~Oct. 21, 2018~~</sub> | <sub>Albayzin 2018 Search on Speech Challenge (SoSC)</sub> | <sub>[sosc2018](http://iberspeech2018.talp.cat/index.php/albayzin-evaluation-challenges/search-on-speech-evaluation/)</sub> | |
 | <sub>Jun. 18, 2018</sub> | <sub>~~Oct. 21, 2018~~</sub> | <sub>IberSPEECH-RTVE 2018 Speech to Text Transcription Challenge (S2TC)</sub> | <sub>[s2tc2018](http://catedrartve.unizar.es/reto2018/evaluations2018.html#S2T)</sub> | |
 | <sub>Aug. 08, 2018</sub> | <sub>~~Oct. 30, 2018~~</sub> | <sub>Making Sense of Sounds Data Challenge</sub> | <sub>[cvssp2018-sounds](http://cvssp.org/projects/making_sense_of_sounds/site/challenge/)</sub> | |
+| <sub>Jan. 15, 2019</sub> | <sub>~~Mar. 04, 2019~~</sub> | <sub>Interspeech2019: The VOiCES from a Distance Challenge 2019</sub> | <sub>[interspeech2019-voices](https://voices18.github.io/)</sub> | <a href="https://github.com/Lab41/VOiCES-subset">:scroll:</a> |
 
 ---
 ---
