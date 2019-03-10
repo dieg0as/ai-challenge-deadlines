@@ -10,11 +10,26 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-| <sub>**Jan, 2019**</sub> | <sub>**May. 1, 2019**</sub> | <sub>CVPR19: VIDEO OBJECT CLASSIFICATION AND DETECTION FROM UNCONSTRAINED MOBILITY PLATFORMS</sub> | <sub>[ug2-track1 :moneybag:](http://www.ug2challenge.org/track1.html)</sub> |<a href="https://docs.google.com/document/d/1Lk1-mTIlyUTwp70OtatItDcPn6Q4NiRcokoylmqGIV8/edit#">:scroll:</a> |
-| <sub>**Jan, 2019**</sub> | <sub>**May. 1, 2019**</sub> | <sub>CVPR19: OBJECT DETECTION IN POOR VISIBILITY ENVIRONMENTS</sub> | <sub>[ug2-track2 :moneybag:](http://www.ug2challenge.org/track2.html)</sub> |<a href="http://www.ug2challenge.org/rules19_t2.html">:scroll:</a> |
+| <sub>**Jan, 2019**</sub> | <sub>**Mar. 19, 2019**</sub> | <sub>CVPR19: NTIRE 2019 Image/Video Restoration/Enhancement  </sub> | <sub>[ntire19 :moneybag:](http://www.vision.ee.ethz.ch/ntire19/)</sub> |  |
+| <sub>**Jan. , 2019**</sub> | <sub>**Apr. 10, 2018**</sub> | <sub>CVPR19: AI CITY CHALLENGE</sub> | <sub>[aicity19 :moneybag: :computer:](https://www.aicitychallenge.org/)</sub> |  |
 | <sub>**Jan, 2019**</sub> | <sub>**Apr. 24, 2019**</sub> | <sub>CVPR19: Low-rate compression</sub> | <sub>[lrc19 :moneybag:](http://www.compression.cc/challenge/)</sub> | |
 | <sub>**Jan, 2019**</sub> | <sub>**Apr. 24, 2019**</sub> | <sub>CVPR19: Transparent compression</sub> | <sub>[tc19 :moneybag:](http://www.compression.cc/challenge/)</sub> | |
-| <sub>**Dec, 2018**</sub> | <sub>**Mar. 10, 2019**</sub> | <sub>MICCAI19: ABCD Neurocognitive prediction challenge</sub> | <sub>[abcd2019](https://sibis.sri.com/abcd-np-challenge/)</sub> |<a href="https://github.com/ABCD-STUDY/BPPCA_Neurocognition_Thompson_etal_2018">:scroll:</a> |
+| <sub>**Feb, 2019**</sub> | <sub>**Apr. 26, 2019**</sub> | <sub>CVPR19: Conceptual Captions</sub> | <sub>[ccaptions19](http://www.conceptualcaptions.com/home)</sub> | <a href="http://www.conceptualcaptions.com/challenge">:scroll:</a> |
+| <sub>**Jan, 2019**</sub> | <sub>**May. 1, 2019**</sub> | <sub>CVPR19: VIDEO OBJECT CLASSIFICATION AND DETECTION FROM UNCONSTRAINED MOBILITY PLATFORMS</sub> | <sub>[ug2-track1 :moneybag:](http://www.ug2challenge.org/track1.html)</sub> |<a href="https://docs.google.com/document/d/1Lk1-mTIlyUTwp70OtatItDcPn6Q4NiRcokoylmqGIV8/edit#">:scroll:</a> |
+| <sub>**Jan, 2019**</sub> | <sub>**May. 1, 2019**</sub> | <sub>CVPR19: OBJECT DETECTION IN POOR VISIBILITY ENVIRONMENTS</sub> | <sub>[ug2-track2 :moneybag:](http://www.ug2challenge.org/track2.html)</sub> |<a href="http://www.ug2challenge.org/rules19_t2.html">:scroll:</a> |
+| <sub>**Jan, 2019**</sub> | <sub>**May. 10, 2019**</sub> | <sub>CVPR19: ACRV Probabilistic Object Detection </sub> | <sub>[acrv19](https://competitions.codalab.org/competitions/20940)</sub> |  |
+| <sub>**Feb, 2019**</sub> | <sub>**May. 11, 2019**</sub> | <sub>CVPR19: CARLA Autonomous Driving</sub> | <sub>[sumo19 :moneybag:](https://sumochallenge.org/)</sub> | <a href="https://github.com/facebookresearch/sumo-challenge">:scroll:</a> |
+| <sub>**Feb, 2019**</sub> | <sub>**May. 17, 2019**</sub> | <sub>CVPR19: Scene Understanding and Modeling (SUMO) </sub> | <sub>[sumo19 :moneybag: :computer:](https://sumochallenge.org/)</sub> | <a href="https://github.com/facebookresearch/sumo-challenge">:scroll:</a> |
+| <sub>**Mar, 2019**</sub> | <sub>**May. 22, 2019**</sub> | <sub>CVPR19: Activities in Extended Videos Prize Challenge</sub> | <sub>[ActEV-PC :moneybag:](https://actev.nist.gov/prizechallenge)</sub> | |
+| <sub>**May, 2019**</sub> | <sub>**May. 24, 2019**</sub> | <sub>CVPR19: DAVIS Challenge Semi-Supervised</sub> | <sub>[davis19-ss](https://davischallenge.org/challenge2019/semisupervised.html)</sub> | |
+| <sub>**May, 2019**</sub> | <sub>**May. 24, 2019**</sub> | <sub>CVPR19: DAVIS Challenge Interative</sub> | <sub>[davis19-it](https://davischallenge.org/challenge2019/interactive.html)</sub> | <a href="https://interactive.davischallenge.org/">:scroll:</a> |
+| <sub>**May, 2019**</sub> | <sub>**May. 24, 2019**</sub> | <sub>CVPR19: DAVIS Challenge Unsupervised</sub> | <sub>[davis19-ut](https://davischallenge.org/challenge2019/unsupervised.html)</sub> | |
+| <sub>**Apr, 2019**</sub> | <sub>**May. 31, 2019**</sub> | <sub>CVPR19: ActivityNet Tasks</sub> | <sub>[anet19](http://activity-net.org/challenges/2019/challenge.html)</sub> | |
+| <sub>**Apr, 2019**</sub> | <sub>**May. 31, 2019**</sub> | <sub>CVPR19: Guest Tasks</sub> | <sub>[guest19](http://activity-net.org/challenges/2019/challenge.html)</sub> | |
+| <sub>**Feb, 2019**</sub> | <sub>**Jun. 7, 2019**</sub> | <sub>CVPR19: EPIC-Kitchens Challenges</sub> | <sub>[epic-kit19](https://epic-kitchens.github.io/2018#challenges)</sub> | |
+| <sub>**Jan. , 2019**</sub> | <sub>**Jun. 10, 2018**</sub> | <sub>CVPR19: Human-centric Understanding - LOOK INTO PERSON </sub> | <sub>[lip19](http://sysu-hcp.net/lip/)</sub> |  |
+| <sub>**Jan, 2019**</sub> | <sub>**Jun. 1, 2019**</sub> | <sub>CVPR19: Detection In the Wild - Objects365</sub> | <sub>[obj365-19](https://www.objects365.org/workshop2019.html)</sub> |  |
+| <sub>**Jan, 2019**</sub> | <sub>**Jun. 1, 2019**</sub> | <sub>CVPR19: Detection In the Wild - CrowdHuman</sub> | <sub>[crowd19](http://www.crowdhuman.org/)</sub> |  |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Image Super-Resolution (CVPR 2018)</sub> | <sub>[ntire2018-super](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Image Dehazing (CVPR 2018)</sub> | <sub>[ntire2018-dehazing](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Spectral Reconstruction from RGB Images (CVPR 2018)</sub> | <sub>[ntire2018-reconstruction](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
@@ -57,6 +72,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Aug. 29, 2018</sub> | <sub>~~Nov. 16, 2019~~</sub> | <sub>SUMO: The Scene Understanding and Modeling Challenge</sub> | <sub>[sumo](https://sumochallenge.org/)</sub> | <a href="https://github.com/facebookresearch/sumo-challenge">:scroll:</a> |
 | <sub>Sep. 15, 2018</sub> | <sub>~~Jan. 10, 2019~~</sub> | <sub>FG 2019: Recognizing Families In the Wild - Kinship Verification (Track I)</sub> | <sub>[fg2019-track1](https://competitions.codalab.org/competitions/20180)</sub> | <a href="https://github.com/visionjo/FIW_KRT">:scroll:</a> |
 | <sub>Sep. 15, 2018</sub> | <sub>~~Jan. 10, 2019~~</sub> | <sub>FG 2019: Recognizing Families In the Wild - Family Classification (Track II)</sub> | <sub>[fg2019-track2](https://competitions.codalab.org/competitions/20196)</sub> | <a href="https://github.com/visionjo/FIW_KRT">:scroll:</a> |
+| <sub>Dec, 2018</sub> | <sub>~~Mar. 10, 2019~~</sub> | <sub>MICCAI19: ABCD Neurocognitive prediction challenge</sub> | <sub>[abcd2019](https://sibis.sri.com/abcd-np-challenge/)</sub> |<a href="https://github.com/ABCD-STUDY/BPPCA_Neurocognition_Thompson_etal_2018">:scroll:</a> |
 
 
 ---
