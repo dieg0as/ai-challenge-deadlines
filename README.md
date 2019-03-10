@@ -10,6 +10,10 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
+| <sub>**Jan, 2019**</sub> | <sub>**May. 1, 2019**</sub> | <sub>CVPR19: VIDEO OBJECT CLASSIFICATION AND DETECTION FROM UNCONSTRAINED MOBILITY PLATFORMS</sub> | <sub>[ug2-track1 :moneybag:](http://www.ug2challenge.org/track1.html)</sub> |<a href="https://docs.google.com/document/d/1Lk1-mTIlyUTwp70OtatItDcPn6Q4NiRcokoylmqGIV8/edit#">:scroll:</a> |
+| <sub>**Jan, 2019**</sub> | <sub>**May. 1, 2019**</sub> | <sub>CVPR19: OBJECT DETECTION IN POOR VISIBILITY ENVIRONMENTS</sub> | <sub>[ug2-track2 :moneybag:](http://www.ug2challenge.org/track2.html)</sub> |<a href="http://www.ug2challenge.org/rules19_t2.html">:scroll:</a> |
+| <sub>**Jan, 2019**</sub> | <sub>**Apr. 24, 2019**</sub> | <sub>CVPR19: Low-rate compression</sub> | <sub>[lrc19 :moneybag:](http://www.compression.cc/challenge/)</sub> | |
+| <sub>**Jan, 2019**</sub> | <sub>**Apr. 24, 2019**</sub> | <sub>CVPR19: Transparent compression</sub> | <sub>[tc19 :moneybag:](http://www.compression.cc/challenge/)</sub> | |
 | <sub>**Dec, 2018**</sub> | <sub>**Mar. 10, 2019**</sub> | <sub>MICCAI19: ABCD Neurocognitive prediction challenge</sub> | <sub>[abcd2019](https://sibis.sri.com/abcd-np-challenge/)</sub> |<a href="https://github.com/ABCD-STUDY/BPPCA_Neurocognition_Thompson_etal_2018">:scroll:</a> |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Image Super-Resolution (CVPR 2018)</sub> | <sub>[ntire2018-super](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Image Dehazing (CVPR 2018)</sub> | <sub>[ntire2018-dehazing](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
