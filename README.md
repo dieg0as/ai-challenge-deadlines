@@ -10,7 +10,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
-|| <sub>**Jan, 2019**</sub> | <sub>**Apr. 24, 2019**</sub> | <sub>CVPR19: Low-rate compression</sub> | <sub>[lrc19 :moneybag:](http://www.compression.cc/challenge/)</sub> | |
+| <sub>**Jan, 2019**</sub> | <sub>**Apr. 24, 2019**</sub> | <sub>CVPR19: Low-rate compression</sub> | <sub>[lrc19 :moneybag:](http://www.compression.cc/challenge/)</sub> | |
 | <sub>**Jan, 2019**</sub> | <sub>**Apr. 24, 2019**</sub> | <sub>CVPR19: Transparent compression</sub> | <sub>[tc19 :moneybag:](http://www.compression.cc/challenge/)</sub> | |
 | <sub>**Feb, 2019**</sub> | <sub>**Apr. 26, 2019**</sub> | <sub>CVPR19: Conceptual Captions</sub> | <sub>[ccaptions19](http://www.conceptualcaptions.com/home)</sub> | <a href="http://www.conceptualcaptions.com/challenge">:scroll:</a> |
 | <sub>**Jan, 2019**</sub> | <sub>**May. 1, 2019**</sub> | <sub>CVPR19: VIDEO OBJECT CLASSIFICATION AND DETECTION FROM UNCONSTRAINED MOBILITY PLATFORMS</sub> | <sub>[ug2-track1 :moneybag:](http://www.ug2challenge.org/track1.html)</sub> |<a href="https://docs.google.com/document/d/1Lk1-mTIlyUTwp70OtatItDcPn6Q4NiRcokoylmqGIV8/edit#">:scroll:</a> |
@@ -85,6 +85,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
 | <sub>**Nov. 5, 2018**</sub> | <sub>**May. 1, 2019**</sub> | <sub>TL;DR: The abstractive summarization challenge</sub> | <sub>[tldr](https://tldr.webis.de/)</sub> |<a href="https://tldr.webis.de/tldr-web/soa.html">:scroll:</a>  |
+| <sub>**Mar. , 2019**</sub> | <sub>**May 15, 2019**</sub> | <sub>ICML 2019: The How2 Challenge</sub> | <sub>[how2](https://srvk.github.io/how2-challenge/)</sub> | |
 | <sub>**Jan., 2019**</sub> | <sub>**Jun. 1, 2019**</sub> | <sub>GermEval 2019: Shared Task on the Identification of Offensive Language</sub> | <sub>[](https://projects.fzai.h-da.de/iggsa/)</sub> |<a href="https://github.com/uds-lsv/GermEval-2018-Data">:scroll:</a>  |
 | <sub>**Apr. , 2019**</sub> | <sub>**Jun. 3, 2019**</sub> | <sub>Spoken CALL Shared Task - Third Edition</sub> | <sub>[scall19](https://regulus.unige.ch/spokencallsharedtask_3rdedition/)</sub> | |
 | <sub>**Jun., 2019**</sub> | <sub>**Set. , 2019**</sub> | <sub>DSTC8: Dialog System Technology Challenges </sub> | <sub>[dstc8](http://workshop.colips.org/dstc7/dstc8_proposals.html)</sub> ||
