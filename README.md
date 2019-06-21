@@ -10,6 +10,18 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
+| <sub>Apr., 2019</sub> | <sub>**Jun., 2019**</sub> | <sub>ACMMM19: Perfect Half Million Beauty Product Image Recognition Challenge</sub> | <sub>[perfect19](https://challenge2019.perfectcorp.com/)</sub> | <a href="https://hub.docker.com/u/aimeetsbeauty">:scroll:</a> |
+| <sub>Fev., 2019</sub> | <sub>**Jun., 2019**</sub> | <sub>ACMMM19: Grand Challenge on Medical Multimedia</sub> | <sub>[biomedia19 :moneybag:](https://github.com/kelkalot/biomedia-2019/wiki)</sub> | <a href="https://github.com/kelkalot/biomedia-2019">:scroll:</a> |
+| <sub>Apr., 2019</sub> | <sub>**Jun., 2019**</sub> | <sub>ACMMM19:MediaEval Tasks </sub> | <sub>[mediaeval19 :moneybag:](http://www.multimediaeval.org/mediaeval2019/)</sub> | <a href="http://ceur-ws.org/Vol-2283/">:scroll:</a> |
+| <sub>Apr., 2019</sub> | <sub>**Jun., 2019**</sub> | <sub>ACMMM19: Social Media Prediction Challenge</sub> | <sub>[smp19](http://smp-challenge.com/)</sub> | <a href="http://smp-challenge.com/download/">:scroll:</a> |
+| <sub>Apr., 2019</sub> | <sub>**Jun., 2019**</sub> | <sub>ACMMM19: Video Relation Challenge </sub> | <sub>[mm19-gdc](https://lms.comp.nus.edu.sg/research/video-relation-challenge/mm19-gdc/)</sub> |  |
+| <sub>Apr., 2019</sub> | <sub>**Jun., 2019**</sub> | <sub>ACMMM19: Content-based Video Relevance Prediction Challenge</sub> | <sub>[cbvrp19](https://github.com/cbvrp-acmmm-2019/cbvrp-acmmm-2019)</sub> | <a href="https://github.com/cbvrp-acmmm-2019">:scroll:</a> |
+| <sub>Apr., 2019</sub> | <sub>**Jun., 2019**</sub> | <sub>ACMMM19: iQIYI Celebrity Video Identification Challenge </sub> | <sub>[iqiyi19 :moneybag:](http://challenge.ai.iqiyi.com/detail?raceId=5c767dc41a6fa0ccf53922e6)</sub> | <a href="http://challenge.ai.iqiyi.com/data-cluster">:scroll:</a> |
+| <sub>Fev., 2019</sub> | <sub>**Jun., 2019**</sub> | <sub>ECMLPKDD19: Multimodal Emotion Recognition in Polish</sub> | <sub>[merip19](http://www.merip.imsi.pl/)</sub> | <a href="https://competitions.codalab.org/competitions/22249">:scroll:</a> |
+| <sub>Apr., 2019</sub> | <sub>**Jul., 2019**</sub> | <sub>Algonauts19: Explaining the Human Visual Brain Challenge</sub> | <sub>[algonauts19](http://algonauts.csail.mit.edu/challenge.html)</sub> |  |
+| <sub>May., 2019</sub> | <sub>**Jul. 30, 2019**</sub> | <sub>ICCV19: DeepFashion2 challenge</sub> | <sub>[dfashion2-19](https://sites.google.com/view/cvcreative/deepfashion2)</sub> |  |
+| <sub>Apr., 2019</sub> | <sub>**Jul. 2, 2019**</sub> | <sub>ACMMM19: Audio/Visual Emotion Challenge and Workshop (AVEC 2019) </sub> | <sub>[avec19](https://sites.google.com/view/avec2019)</sub> | <a href="https://github.com/AudioVisualEmotionChallenge/AVEC2019">:scroll:</a> |
+| <sub>May., 2019</sub> | <sub>**Sep. 15, 2019**</sub> | <sub>OpenEDS Challenge</sub> | <sub>[openeds19](https://research.fb.com/programs/openeds-challenge/)</sub> | |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Image Super-Resolution (CVPR 2018)</sub> | <sub>[ntire2018-super](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Image Dehazing (CVPR 2018)</sub> | <sub>[ntire2018-dehazing](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
 | <sub>Jan. 10, 2018</sub> | <sub>~~Mar. 24, 2018~~</sub> | <sub>NTIRE2018: Challenge on Spectral Reconstruction from RGB Images (CVPR 2018)</sub> | <sub>[ntire2018-reconstruction](http://www.vision.ee.ethz.ch/en/ntire18/)</sub> | <a href="https://github.com/search?q=ntire+2018">:scroll:</a> |
@@ -84,6 +96,7 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
+| <sub>Apr., 2019</sub> | <sub>**Jun., 2019**</sub> | <sub>ECMLPKDD19: SocIaL Media And Harassment</sub> | <sub>[simah19](https://sites.google.com/view/simah-2019/competition)</sub> | <a href="https://github.com/">:scroll:</a> |
 | <sub>**Jun., 2019**</sub> | <sub>**Set. , 2019**</sub> | <sub>DSTC8: Dialog System Technology Challenges </sub> | <sub>[dstc8](http://workshop.colips.org/dstc7/dstc8_proposals.html)</sub> ||
 | <sub>**Mar., 2019**</sub> | <sub>**Dec. , 2019**</sub> | <sub>2019 QANTA League Events</sub> | <sub>[quanta19](https://sites.google.com/view/qanta/2019-events)</sub> ||
 | <sub>Jul. 17, 2017</sub> | <sub>**Never**</sub> | <sub>TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension</sub> | <sub>[triviaqa](http://nlp.cs.washington.edu/triviaqa/)</sub> |<a href="https://github.com/mandarjoshi90/triviaqa">:scroll:</a> |
@@ -105,6 +118,11 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 
 | <sub>Opening</sub> | <sub>Submission</sub> | <sub>Title</sub> | <sub>Info</sub> | <sub>Code</sub> |
 | :--- | :--- | :--- | :--- | :--- |
+| <sub>Apr., 2019</sub> | <sub>**Jun., 2019**</sub> | <sub>HASCA19: Nurse Care Activity Recognition Challenge</sub> | <sub>[nurse19](https://hasc-nurse-challenge.github.io/data_description/)</sub> |  |
+| <sub>Apr., 2019</sub> | <sub>**Jun., 2019**</sub> | <sub>HASCA19: Sussex-Huawei Locomotion Challenge </sub> | <sub>[sussex19 :moneybag:](http://www.shl-dataset.org/activity-recognition-challenge-2019/)</sub> |  |
+| <sub>Apr., 2019</sub> | <sub>**Jul., 2019**</sub> | <sub>eBay SIGIR 2019 eCommerce Search Challenge: High Accuracy Recall Task</sub> | <sub>[sigir19 :moneybag:](https://sigir-ecom.github.io/data-task.html)</sub> |  |
+| <sub>Apr., 2019</sub> | <sub>**Ago. 15, 2019**</sub> | <sub>ECMLPKDD19: Ariel Machine Learning Data Challenge </sub> | <sub>[ariel19](https://ariel-datachallenge.azurewebsites.net/ML)</sub> | <a href="https://ariel-datachallenge.azurewebsites.net/ML/documentation/about">:scroll:</a> |
+| <sub>Jul., 2019</sub> | <sub>**Oct. 31, 2019**</sub> | <sub>CDMC19: Cybersecurity Data Mining Competition</sub> | <sub>[cdmc19](http://www.csmining.org/cdmc2019/)</sub> | |
 | <sub>Jul., 10 2018</sub> | <sub>~~Aug. 19, 2018~~</sub> | <sub>AWS DeepLens Challenge - Inclusivity</sub> | <sub>[aws-deeplens](https://aws.amazon.com/deeplens/challenge/)</sub> | |
 | <sub>Jun., 2018</sub> | <sub>~~Sep. 16, 2018~~</sub> | <sub>NIPS 2018: AI for Prosthetics Challenge</sub> | <sub>[prosthetics2018](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge)</sub> | <a href="https://github.com/stanfordnmbl/osim-rl">:scroll:</a> |
 | <sub>Jun., 2018</sub> | <sub>~~Oct. 10, 2018~~</sub> | <sub>IEEE ICDM 2018: Global AI Challenge on Meteorology</sub> | <sub>[ieeemeteo2018](https://tianchi.aliyun.com/competition/introduction.htm?&raceId=231662)</sub> | |
@@ -118,6 +136,8 @@ To add/update a challenge: Fork the repository, Update README.md and Send a pull
 | <sub>Oct., 2018</sub> | <sub>~~Jan. 7, 2019~~</sub> | <sub>CEC2019: Online Data-Driven Multi-Objective Optimization Competition</sub> | <sub>[cec2019-ddmop](https://handingwang.github.io/DDMOP/)</sub> | <a href="https://github.com/HandingWang/DDMOP">:scroll:</a> |
 | <sub>Nov., 2018</sub> | <sub>~~Feb., 2019~~</sub> | <sub>DRL2019: AlphaPilot–Lockheed Martin AI Drone Racing Innovation Challenge</sub> | <sub>[drone-alphapilot](https://www.herox.com/alphapilot)</sub> | |
 | <sub>Oct. 17, 2018</sub> | <sub>~~May. 31, 2019~~</sub> | <sub>AIGym Airbus: Anomaly Detection in Aerospace Time Series</sub> | <sub>[airbus-anomaly](https://aigym-v.airbus.com/contest/5bc834b8ba7add0027f3ac5a)</sub> | |
+
+
 ---
 ## Speaker
 ###### Recognition, Identification, Diarization, ...
